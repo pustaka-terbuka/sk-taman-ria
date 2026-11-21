@@ -15,10 +15,10 @@ This repository contains the MARCXML bibliographic catalog synchronized from **S
 - **Source Priority:** 10
 - **ILS Platform:** ErrinILS (School Integrated Library System)
 - **Classification:** Dewey Decimal Classification (DDC)
-- **Catalog Size:** 5 records
+- **Catalog Size:** 16 records
 - **Repository:** `pustaka-terbuka/sk-taman-ria`
 - **Reference Sibling:** `sk-taman-ria`
-- **Last Synced:** 2026-11-21 20:15:28 UTC
+- **Last Synced:** 2026-11-21 21:46:39 UTC
 
 ---
 

@@ -60,4 +60,138 @@
 <datafield tag="650" ind1=" " ind2="0"><subfield code="a">Atlases</subfield></datafield>
 <datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1005</subfield></datafield>
 </record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000006</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789673699735</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">899.2333 EJA</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ejart14</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">CHE-MISS-TRY</subfield><subfield code="b">RENTAK REAKSI</subfield><subfield code="c">Ejart14</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Batu Caves, SELANGOR</subfield><subfield code="b">Bookiut</subfield><subfield code="c">2025</subfield></datafield>
+<datafield tag="300" ind1=" " ind2=" "><subfield code="a">160 p.</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000001</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Malay fiction; Malaysian fiction (Malay)</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1006</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000007</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9786299579786</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">297.5 RAH</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd. Nizho Abdul Rahman</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">2026 PANDUAN ASAS MUALLAF</subfield><subfield code="b">Modul Akhlak dan Adab</subfield><subfield code="c">Mohd. Nizho Abdul Rahman</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Sintok, Kedah</subfield><subfield code="b">Institut Penyelidikan dan Inovasi Zakat, Univeristi Utara Malaysia</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000002</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Islamic ethics; Muslim converts; Muslims--Conduct of life</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1007</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000008</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789671144145</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">327.172 SHE</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Moyi Shen</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">Zhen’ai heping</subfield><subfield code="b">maliujia huatuan zhuban : Riben Touxiang 80 Zhounian Jinianhui Tekan</subfield><subfield code="c">Moyi Shen</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Kuala Lumpur</subfield><subfield code="b">Malacca Chinese Assembly Hall</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000003</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Peace-- China;  Community life; Malacca (Malaysia)-- Social life and customs</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1008</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000009</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9786297633305</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">899.2333 AMI</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Haniza Amin</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">Jom Eja &amp; Kenal Benda</subfield><subfield code="b">BANDAR</subfield><subfield code="c">Haniza Amin</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">SHAH ALAM, SELANGOR</subfield><subfield code="b">MIKA CEMERLANG SDN BHD</subfield><subfield code="c">2027</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000004</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Malay fiction; Malaysian fiction (Malay)</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1009</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000010</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789672656593</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">294.3 SHI</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Jiewen Shi</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">Hui Xin Fa Yu</subfield><subfield code="c">Jiewen Shi</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Penang</subfield><subfield code="b">Xiao Yu Enterprise</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000005</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Buddhism-- Doctrines; Spiritual life-- Buddhism</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1010</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000011</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9786299450122</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">297.362 ALI</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nur Dalila Alias</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">The Great Mystery Hunt</subfield><subfield code="b">A Night Like No Other</subfield><subfield code="c">Nur Dalila Alias</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Cyberjaya, Selangor</subfield><subfield code="b">Whitelily Writes Integrated</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="300" ind1=" " ind2=" "><subfield code="a">1 p.</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000006</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Ramadan--Juvenile literature; Islam--Customs and practices</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1011</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000012</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9786297676173</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">823.92 VEL</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Kumara Velu</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">The Password Guessers</subfield><subfield code="c">Kumara Velu</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">SHAH ALAM, SELANGOR</subfield><subfield code="b">KOTA ILMIAH</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000007</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Artificial intelligence--Juvenile fiction; Technology and children--Juvenile fiction; Ethics--Juvenile fiction</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1012</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000013</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789670729725</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">297.5 RAU</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Abdur Rauf</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">Prophet Muhammad’s</subfield><subfield code="b">Guidance for Children</subfield><subfield code="c">Abdur Rauf</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Kuala Lumpur</subfield><subfield code="b">DAR AL WAHI PUBLICATION</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000008</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Islamic ethics-- Juvenile literature;  Child rearing-- Religious aspects-- Islam;  Parenting-- Religious aspects-- Islam</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1013</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000014</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9786294804197</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">823.92 F</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Soong S. F.</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">THE LION DANCE</subfield><subfield code="c">Soong S. F.</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Taman Bukit Serdang, Selangor</subfield><subfield code="b">Mines Publications Sdn. Bhd</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000009</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Children's stories, English; English fiction</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1014</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000015</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789672950257</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">899.2333 CHI</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Melissa Chin</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">SAY ''SORRY...''</subfield><subfield code="c">Melissa Chin</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">Subang Jaya, Selangor</subfield><subfield code="b">Pustaka Nurani</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000010</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Children's stories, English; Didactic fiction, English</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1015</subfield></datafield>
+</record>
+<record>
+<leader>00000nam a2200000 a 4500</leader>
+<controlfield tag="001">ER00000016</controlfield>
+<datafield tag="020" ind1=" " ind2=" "><subfield code="a">9789671572610</subfield></datafield>
+<datafield tag="082" ind1="0" ind2="4"><subfield code="a">332.024 IDR</subfield></datafield>
+<datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hanaffi Idris</subfield></datafield>
+<datafield tag="245" ind1="1" ind2="0"><subfield code="a">PUSAKA DIBIARKAN WARIS TERBEBAN</subfield><subfield code="c">Hanaffi Idris</subfield></datafield>
+<datafield tag="260" ind1=" " ind2=" "><subfield code="a">KLANG SELANGOR</subfield><subfield code="b">SEZARAH NUR VENTURE</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000011</subfield></datafield>
+<datafield tag="650" ind1=" " ind2="0"><subfield code="a">Inheritance and succession (Islamic law);  Property (Islamic law);  Heirs</subfield></datafield>
+<datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1016</subfield></datafield>
+</record>
 </collection>
