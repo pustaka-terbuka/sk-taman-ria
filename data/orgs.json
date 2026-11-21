@@ -1,0 +1,10 @@
+{
+  "SKTR": {
+    "name": "Sekolah Kebangsaan Taman Ria",
+    "state": "Kedah",
+    "type": "school",
+    "default_scheme": "DDC",
+    "contact": "tamanria.sk@gmail.com",
+    "opac_url": "https://pustaka-terbuka.github.io/sk-taman-ria/"
+  }
+}

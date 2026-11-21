@@ -1,26 +1,44 @@
-# Koleksi Bibliografi SK Taman Ria (Pustaka Terbuka)
+# Pustaka Terbuka — Sekolah Kebangsaan Taman Ria Data Provider
 
 > **PustakaTerbuka: an open, shared MARC catalog for Malaysian schools and libraries.**  
-> *Katalog Induk Bibliografi rasmi Sekolah Kebangsaan Taman Ria, Sungai Petani, Kedah untuk perkongsian data terbuka di [Pustaka Terbuka](https://github.com/pustaka-terbuka).*
+> *Official Sekolah Kebangsaan Taman Ria (SKTR) Bibliographic Dataset and Harvester.*
 
-Katalog ini disegerakkan secara automatik dari sistem automasi perpustakaan sekolah **ErrinILS**.
+This repository contains the MARCXML bibliographic catalog synchronized from **Sekolah Kebangsaan Taman Ria** via **ErrinILS** for consumption by the Pustaka Terbuka Union Catalog ([`pustaka-terbuka/opac`](https://github.com/pustaka-terbuka/opac)).
 
-## Ringkasan Koleksi
-- **Jumlah Judul / Naskhah**: 5
-- **Organisasi**: `pustaka-terbuka`
-- **Repositori**: `sk-taman-ria`
-- **Tarikh Kemas Kini**: 2026-11-21 14:18:16
+---
 
-## Format Data Disediakan
-| Fail | Format | Keterangan |
-| --- | --- | --- |
-| [`catalog.json`](catalog.json) | JSON | Data katalog penuh berstruktur JSON untuk integrasi web dan aplikasi |
-| [`holdings.csv`](holdings.csv) | CSV | Senarai perolehan dan pegangan fizikal buku sekolah (Excel / Sheet) |
-| [`catalog.mrc`](catalog.mrc) | MARC 21 (ISO 2709) | Format piawai antarabangsa MARC 21 untuk sistem perpustakaan (Koha, SLiMS, Destiny) |
-| [`catalog.mrk`](catalog.mrk) | MarcEdit Text | Format teks mnemonik MarcEdit untuk penyuntingan pukal |
-| [`catalog.xml`](catalog.xml) | MARCXML | Koleksi MARCXML rasmi Library of Congress |
+## Catalog Overview
 
-## Cara Penggunaan dan Sinkronisasi
-1. **ErrinILS Desktop**: Buka ErrinILS pada mana-mana komputer sekolah, tekan **Sync with GitHub** pada tab Catalog atau Settings.
-2. **Komputer Lain**: Pasang ErrinILS pada PC kedua, rekod katalog akan dimuat turun secara automatik dari repositori ini.
-3. **Pustaka Terbuka Union OPAC**: Rekod dari repositori ini digabungkan secara automatik ke dalam portal OPAC pusat di [pustaka-terbuka.github.io/opac](https://pustaka-terbuka.github.io/opac/).
+- **Source Code:** `sk-taman-ria`
+- **Organization Code:** `SKTR`
+- **Institution:** Sekolah Kebangsaan Taman Ria
+- **Source Priority:** 10
+- **ILS Platform:** ErrinILS (School Integrated Library System)
+- **Classification:** Dewey Decimal Classification (DDC)
+- **Catalog Size:** 5 records
+- **Repository:** `pustaka-terbuka/sk-taman-ria`
+- **Reference Sibling:** `sk-taman-ria`
+- **Last Synced:** 2026-11-21 08:44:56 UTC
+
+---
+
+## Repository Structure & Integration
+
+This repository follows the official Pustaka Terbuka Data Provider standard (as modeled by PPAPP and sibling providers):
+
+- `data/sources.json` — Source definition and authority priority.
+- `data/orgs.json` — Organization metadata, state, classification scheme, and contact.
+- `data/aliases.jsonl` — Canonical alias mapping table (ISBN, 035, and fallback keys to permanent Crockford Base32 IDs).
+- `data/bib/<shard>/<id>.xml` — Partitioned single-record MARCXML files for downstream OPAC indexing.
+- `data/holdings/SKTR.csv` — Normalized institutional holdings table.
+- `harvest/inbox/sk-taman-ria/<run-id>/` — Intake batches with `manifest.json`, `partition_state.json`, `provenance.jsonl`, and `records/batch_0.xml`.
+- `tools/` — Self-contained validation, merging, and alias resolution scripts.
+- `package.json` — NPM toolchain scripts (`test`, `validate-inbox`, `merge`).
+
+### Convenience Exports
+For school librarians and external spreadsheets, the root directory also contains:
+- [`catalog.json`](catalog.json) — Full JSON export
+- [`holdings.csv`](holdings.csv) — CSV accession and inventory list
+- [`catalog.mrc`](catalog.mrc) — Binary MARC 21 (ISO 2709) export
+- [`catalog.mrk`](catalog.mrk) — MarcEdit text mnemonic format
+- [`catalog.xml`](catalog.xml) — Multi-record MARCXML collection
