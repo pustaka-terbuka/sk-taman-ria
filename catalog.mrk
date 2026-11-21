@@ -1,0 +1,54 @@
+=LDR  00000nam a2200000 a 4500
+=001  ER00000001
+=020  \\$a9780064400558
+=082  04$aF WHI
+=100  1\$aE. B. White
+=245  10$aCharlotte's Web$cE. B. White
+=260  \\$bHarper$c2001
+=300  \\$a184 p.
+=650  \0$aAnimals--Fiction
+=852  \\$pB1001
+
+=LDR  00000nam a2200000 a 4500
+=001  ER00000002
+=020  \\$a9780553380163
+=082  04$a523.1 HAW
+=100  1\$aStephen Hawking
+=245  10$aA Brief History of Time$cStephen Hawking
+=260  \\$bBantam$c1998
+=300  \\$a212 p.
+=650  \0$aCosmology
+=852  \\$pB1002
+
+=LDR  00000nam a2200000 a 4500
+=001  ER00000003
+=020  \\$a9781416936473
+=082  04$aF PAU
+=100  1\$aGary Paulsen
+=245  10$aHatchet$cGary Paulsen
+=260  \\$bSimon & Schuster$c2006
+=300  \\$a195 p.
+=650  \0$aWilderness survival--Fiction
+=852  \\$pB1003
+
+=LDR  00000nam a2200000 a 4500
+=001  ER00000004
+=020  \\$a9780547928227
+=082  04$aF TOL
+=100  1\$aJ. R. R. Tolkien
+=245  10$aThe Hobbit$cJ. R. R. Tolkien
+=260  \\$bHoughton Mifflin$c2012
+=300  \\$a300 p.
+=650  \0$aFantasy
+=852  \\$pB1004
+
+=LDR  00000nam a2200000 a 4500
+=001  ER00000005
+=020  \\$a9781426220654
+=082  04$a912 ATL
+=100  1\$aNational Geographic
+=245  10$aAtlas of the World$cNational Geographic
+=260  \\$bNational Geographic$c2015
+=300  \\$a304 p.
+=650  \0$aAtlases
+=852  \\$pB1005
