@@ -3,6 +3,7 @@
 {"key":"035:(SKTR)B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"035:(SKTR)B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"035:(SKTR)B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-21T08:44:56.824Z"}
+{"key":"035:(STR)1001","id":"eh24afj87v","type":"035","ts":"2026-11-24T17:01:19.858Z"}
 {"key":"035:(STR)B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-21T12:49:52.418Z"}
 {"key":"035:(STR)B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-21T12:49:52.418Z"}
 {"key":"035:(STR)B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-21T12:49:52.418Z"}
@@ -24,6 +25,7 @@
 {"key":"035:SKTR-B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"035:SKTR-B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"035:SKTR-B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-21T08:44:56.824Z"}
+{"key":"035:STR-1001","id":"eh24afj87v","type":"035","ts":"2026-11-24T17:01:19.858Z"}
 {"key":"035:STR-B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-21T12:49:52.418Z"}
 {"key":"035:STR-B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-21T12:49:52.418Z"}
 {"key":"035:STR-B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-21T12:49:52.418Z"}
@@ -46,6 +48,7 @@
 {"key":"fb:charlotte's web|e. b. white|harper|2001","id":"57yyvq2xx3","type":"fallback","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"fb:che-miss-try rentak reaksi|ejart14|bookiut|2025","id":"2ty0d6a504","type":"fallback","ts":"2026-11-21T21:46:39.377Z"}
 {"key":"fb:great mystery hunt a night like no other|nur dalila alias|whitelily writes integrated|2026","id":"sww71nr97k","type":"fallback","ts":"2026-11-21T21:46:39.377Z"}
+{"key":"fb:harry potter and the philosopher's stone /​|j. k. rowling|bloomsbury|1997","id":"eh24afj87v","type":"fallback","ts":"2026-11-24T17:01:19.858Z"}
 {"key":"fb:hatchet|gary paulsen|simon & schuster|2006","id":"eg99mxd8gc","type":"fallback","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"fb:hobbit|j. r. r. tolkien|houghton mifflin|2012","id":"yhd98e28n3","type":"fallback","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"fb:hui xin fa yu|jiewen shi|xiao yu enterprise|2026","id":"f5k8mwrpes","type":"fallback","ts":"2026-11-21T21:46:39.377Z"}
@@ -59,6 +62,7 @@
 {"key":"isbn:9780064400558","id":"57yyvq2xx3","type":"isbn","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"isbn:9780547928227","id":"yhd98e28n3","type":"isbn","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"isbn:9780553380163","id":"etj2gt13ws","type":"isbn","ts":"2026-11-21T08:44:56.824Z"}
+{"key":"isbn:9780747532699","id":"eh24afj87v","type":"isbn","ts":"2026-11-24T17:01:19.858Z"}
 {"key":"isbn:9781416936473","id":"eg99mxd8gc","type":"isbn","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"isbn:9781426220654","id":"tj6czhb46j","type":"isbn","ts":"2026-11-21T08:44:56.824Z"}
 {"key":"isbn:9786294804197","id":"0scdpeq8ph","type":"isbn","ts":"2026-11-21T21:46:39.377Z"}

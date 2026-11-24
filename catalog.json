@@ -1,5 +1,23 @@
 [
   {
+    "id": "5c98222a616a4d4e",
+    "ctl": "ER00000017",
+    "acq": "ACQ-000012",
+    "barcode": "1001",
+    "title": "Harry Potter and the philosopher's stone /​",
+    "sub": "",
+    "author": "J. K. Rowling",
+    "isbn": "9780747532699",
+    "publisher": "Bloomsbury",
+    "place": "London",
+    "year": "1997",
+    "pages": "223",
+    "subject": "Wizards--Juvenile fiction; Magic--Juvenile fiction; Hogwarts School of Witchcraft and Wizardry (Imaginary place)--Juvenile fiction",
+    "call": "823.914 ROW",
+    "weeded": "",
+    "weed_reason": ""
+  },
+  {
     "id": "91d01a4b283e47f6",
     "ctl": "ER00000001",
     "acq": "",
