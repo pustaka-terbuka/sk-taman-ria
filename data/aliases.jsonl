@@ -1,744 +1,710 @@
-{"key":"035:(SKTR)1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(SKTR)B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:(STR)1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1002","id":"ct9mx55rgx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1003","id":"8bh37ewex6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1004","id":"hy4yrj0w64","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1005","id":"tv2maqj782","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1006","id":"r7b25kfgbr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1007","id":"xe07vd3gw6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1008","id":"mk5z7mrmvr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1009","id":"m3mbbvd427","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1010","id":"n4esg7tca0","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1011","id":"jbth2awab6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1012","id":"a4shcjy3y6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1013","id":"rjzp2z044m","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1014","id":"87w959c492","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1015","id":"p53rjxyker","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1016","id":"n0mgfs6fcy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1017","id":"wh9njw3ezq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1018","id":"vcf2xn2r87","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1019","id":"rty99mjhh6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1020","id":"pww099dcqe","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1021","id":"r6ek1ywxtc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1022","id":"q4r4jtmzxj","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1023","id":"5k0n2s0h0r","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1024","id":"jjp7e20b9z","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1025","id":"vkhqhq6fpf","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1026","id":"w6khe0geea","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1027","id":"6e3vxame7v","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1028","id":"g7cnq45sdj","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1029","id":"wsmvagqzx3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1030","id":"080f049zcg","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1031","id":"t5cvh88c2d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1032","id":"b7dmc3ykgp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1033","id":"ztwky565wf","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1034","id":"g07betnt0n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1035","id":"7hf3tb1dph","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1036","id":"0n2v2ty4w2","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1037","id":"xm7ntsmt81","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1038","id":"kmznws5qg3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1039","id":"n3gz12dvnx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1040","id":"5h6ps5th7j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1041","id":"ajea5vrre3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1042","id":"hk79krmznq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1043","id":"d3cyrvrr9s","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1044","id":"50dbfjjbv9","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1045","id":"0ftqhpnwk4","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1046","id":"e0rpvjm1jy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1047","id":"mtbnvw3a02","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1048","id":"60xtt34bxn","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1049","id":"6gbtdb145n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1050","id":"fqveev6tkc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1051","id":"xvk16sv7ey","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1052","id":"hknk8tpmfz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1053","id":"8n8qhakwea","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1054","id":"hz45ae8jy3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1055","id":"6svk6xg7pt","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1056","id":"x7xp7zmv2g","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1057","id":"2w1b9fstmy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1058","id":"gw7s7p6pt2","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1059","id":"zk5krjbxm6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1060","id":"z8sxq106r1","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1061","id":"74fr7qmea5","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1062","id":"9001hf4hdv","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1063","id":"n9njm3km3j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1064","id":"r986ss9zkx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1065","id":"46frgp0pbz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1066","id":"gyw7jq9x3v","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1067","id":"qdt0gvhmqh","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1068","id":"tpcsjsahdb","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1069","id":"smqz49bd94","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1070","id":"316863rfr7","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1071","id":"0tnxwtrgpk","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1072","id":"00ajg8k2w9","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1073","id":"5k6e0d8p93","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1074","id":"1dw7mbypqs","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1075","id":"8h5zv3v96d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1076","id":"s6075wjyhd","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1077","id":"k0rg8jccde","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1078","id":"cxf59543ym","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1079","id":"5r062mfx7g","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1080","id":"gen33858fw","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1081","id":"8t9jgmdb7n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1082","id":"1mjd93awtz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1083","id":"m8w27xsrpr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1084","id":"qx75xm5qjy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1085","id":"c9hz0r7mz6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1086","id":"2frsezzpx6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1087","id":"aagec1vezd","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1088","id":"6d5g1hqd7c","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1089","id":"brmgv2gyyh","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1090","id":"60xtt34bxn","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1091","id":"kqta6em9xp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1092","id":"6yt0b0dbs7","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1093","id":"jraqzfcfdc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1094","id":"c99rgwdc3w","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1095","id":"7xjhbgpsvp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1096","id":"vmc642y0ej","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)1097","id":"yf2hd4hcwc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:(STR)B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:SKTR-1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:SKTR-B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"035:STR-1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1002","id":"ct9mx55rgx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1003","id":"8bh37ewex6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1004","id":"hy4yrj0w64","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1005","id":"tv2maqj782","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1006","id":"r7b25kfgbr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1007","id":"xe07vd3gw6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1008","id":"mk5z7mrmvr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1009","id":"m3mbbvd427","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1010","id":"n4esg7tca0","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1011","id":"jbth2awab6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1012","id":"a4shcjy3y6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1013","id":"rjzp2z044m","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1014","id":"87w959c492","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1015","id":"p53rjxyker","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1016","id":"n0mgfs6fcy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1017","id":"wh9njw3ezq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1018","id":"vcf2xn2r87","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1019","id":"rty99mjhh6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1020","id":"pww099dcqe","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1021","id":"r6ek1ywxtc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1022","id":"q4r4jtmzxj","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1023","id":"5k0n2s0h0r","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1024","id":"jjp7e20b9z","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1025","id":"vkhqhq6fpf","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1026","id":"w6khe0geea","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1027","id":"6e3vxame7v","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1028","id":"g7cnq45sdj","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1029","id":"wsmvagqzx3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1030","id":"080f049zcg","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1031","id":"t5cvh88c2d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1032","id":"b7dmc3ykgp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1033","id":"ztwky565wf","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1034","id":"g07betnt0n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1035","id":"7hf3tb1dph","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1036","id":"0n2v2ty4w2","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1037","id":"xm7ntsmt81","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1038","id":"kmznws5qg3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1039","id":"n3gz12dvnx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1040","id":"5h6ps5th7j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1041","id":"ajea5vrre3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1042","id":"hk79krmznq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1043","id":"d3cyrvrr9s","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1044","id":"50dbfjjbv9","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1045","id":"0ftqhpnwk4","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1046","id":"e0rpvjm1jy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1047","id":"mtbnvw3a02","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1048","id":"60xtt34bxn","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1049","id":"6gbtdb145n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1050","id":"fqveev6tkc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1051","id":"xvk16sv7ey","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1052","id":"hknk8tpmfz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1053","id":"8n8qhakwea","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1054","id":"hz45ae8jy3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1055","id":"6svk6xg7pt","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1056","id":"x7xp7zmv2g","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1057","id":"2w1b9fstmy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1058","id":"gw7s7p6pt2","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1059","id":"zk5krjbxm6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1060","id":"z8sxq106r1","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1061","id":"74fr7qmea5","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1062","id":"9001hf4hdv","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1063","id":"n9njm3km3j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1064","id":"r986ss9zkx","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1065","id":"46frgp0pbz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1066","id":"gyw7jq9x3v","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1067","id":"qdt0gvhmqh","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1068","id":"tpcsjsahdb","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1069","id":"smqz49bd94","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1070","id":"316863rfr7","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1071","id":"0tnxwtrgpk","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1072","id":"00ajg8k2w9","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1073","id":"5k6e0d8p93","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1074","id":"1dw7mbypqs","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1075","id":"8h5zv3v96d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1076","id":"s6075wjyhd","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1077","id":"k0rg8jccde","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1078","id":"cxf59543ym","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1079","id":"5r062mfx7g","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1080","id":"gen33858fw","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1081","id":"8t9jgmdb7n","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1082","id":"1mjd93awtz","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1083","id":"m8w27xsrpr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1084","id":"qx75xm5qjy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1085","id":"c9hz0r7mz6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1086","id":"2frsezzpx6","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1087","id":"aagec1vezd","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1088","id":"6d5g1hqd7c","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1089","id":"brmgv2gyyh","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1090","id":"60xtt34bxn","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1091","id":"kqta6em9xp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1092","id":"6yt0b0dbs7","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1093","id":"jraqzfcfdc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1094","id":"c99rgwdc3w","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1095","id":"7xjhbgpsvp","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1096","id":"vmc642y0ej","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-1097","id":"yf2hd4hcwc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"035:STR-B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:101 senarai penting bagi penyelaras keperluan pendidikan khas 101 essential lists for sencos|kate griffiths|institut terjemahan negara malaysia berhad|2011","id":"w6khe0geea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:101 senarai penting menguruskan tingkah laku dalam perkembangan awal kanak-kanak 101 essential lists on managing behaviour in the early years|simon brownhill|institut terjemahan negara malaysia berhad|2011","id":"vcf2xn2r87","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:101 senarai penting menguruskan tingkah laku di sekolah rendah 101 essential lists on managing behaviour in the primary school|alex griffiths|institut terjemahan & buku malaysia berhad|2012","id":"5k0n2s0h0r","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:101 senarai penting untuk penggunaan ict di bilik darjah : 101 essential lists for using ict in the classroom|george cole|institut terjemahan & buku malaysia berhad|2012","id":"rty99mjhh6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:2026 panduan asas muallaf modul akhlak dan adab|mohd. nizho abdul rahman|institut penyelidikan dan inovasi zakat, univeristi utara malaysia|2026","id":"0j2xwsaq6y","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:5000 alam mutiara kata jilid 3|hassan|associated educational|2000","id":"wh9njw3ezq","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:abdul manaf dan abdul halim 101 essential lists for sencos|baharin nasar|penerbit prisma|1992","id":"w6khe0geea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:abu khair dan abu shair|nor aziz|eman media enterprise|2013","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:adibah amin|nurul syifa|goodmark enterprise|2008","id":"d3cyrvrr9s","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:air sungai jali|pakhoruzi mohammud|pustaka minda aktif|2012","id":"wsmvagqzx3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:akal berhelah|badrol risyam|pustaka minda aktif|2012","id":"n9njm3km3j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:akibat dengki|na'eme haji hassan|sama publications & distributors|1995","id":"x7xp7zmv2g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:akibat gelojoh dan tindakan tanpa usul periksa|mohd shafie|pustaka cahaya ilmu|2010","id":"6d5g1hqd7c","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:akibat membangga diri|safiah md. yassin|i mahir sdn. bhd|2015","id":"m8w27xsrpr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:akibat tamak|nor aziz|eman media enterprise|2013","id":"jbth2awab6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:aku dan rio|siti nur nadiah zakaria|penerbit prisma sdn bhd|2015","id":"74fr7qmea5","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:alergi udara jauh di sudut hati|tadatada|kadokawa gempak starz sdn bhd|2022","id":"smqz49bd94","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:amanah yang mulia juara luncur ais|ghazali ngah azia|pustaka murni|1998","id":"ajea5vrre3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:anak kembar encik harun jilid 3|suraida|penerbitan fargoes|2010","id":"wh9njw3ezq","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:anggur adalah masam|nurdia azlin|aneka publication & distribution sdn. bhd|2016","id":"6svk6xg7pt","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:angsa putih yang bersih|mohd. rosli saludin|goal intelligent pub|2008","id":"tv2maqj782","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:animals|jill eggleton|scholastic|2011","id":"ztwky565wf","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:antologi cerpen cahaya langit|abdullah hussain|penerbit penamas sdn. bhd|1987","id":"gw7s7p6pt2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:apa gunanya sampah?|edward close|orbit buku|2011","id":"5k6e0d8p93","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:arak dan godaan iblis|na'eme haji hassan|pustaka tintamas|2008","id":"mtbnvw3a02","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:arnab dan kura-kura||aneka publication & distribution sdn. bhd|2016","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:atlas of the world|national geographic|national geographic|2015","id":"tj6czhb46j","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:bagaimanakah keadaannya? kanser|angela royston|institut terjemahan negara malaysia|2010","id":"cxf59543ym","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bahasa jiwa bangsa|zarina zainal abidin|osc pub. & marketing|2013","id":"k0rg8jccde","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bakti si omar burung hantu bermata besar|kumara velu|pustaka rejang|1998","id":"hknk8tpmfz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:basikal tua pak hasan|ariff abu bakar|13335|1993","id":"zk5krjbxm6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:berjumpa wartawan|pakhoruzi mohammud|pustaka minda aktif|2013","id":"g07betnt0n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bermulalah bencana|w. s. uzala|eddiplex|2005","id":"xvk16sv7ey","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bet between two warriors|ghazali ngah azia|gunung ilmu|2013","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:biografi ayah|pakhoruzi mohammud|pustaka kelisa|2015","id":"7hf3tb1dph","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bobbie and the play : 101 essential lists for using ict in the classroom|monica hughes|pearson rigby|1999","id":"rty99mjhh6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:brave mousedeer|the smart mousedeer series|kiddibird sdn. bhd|2005","id":"8n8qhakwea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:brief history of time|stephen hawking|bantam|1998","id":"etj2gt13ws","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:broken promise|kumara velu|21552|1998","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:buat jahat dibalas jahat serta cerita lain|mohd zhariff|edukid publication sdn. bhd|2017","id":"1mjd93awtz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:budi bahasa dalam kerjaya|noor azilawati mohd. sabda|pustaka printis|2008","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:bunyi dan pendengaran|claire llewellyn|institut terjemahan negara malaysia|2010","id":"gyw7jq9x3v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:buyung dengan geliga sakti|sulaiman zakaria|penerbit mega setia emas|2002","id":"kmznws5qg3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:carbonara untuk opah|aidil fadzil|ana muslim sdn. bhd|2017","id":"8h5zv3v96d","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:catatan matluthfi|matluthfi|open bridge publications|2015","id":"r7b25kfgbr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:cerita tok busu ini buku 1a|zarina ismail|pustaka cergas jaya|2014","id":"xvk16sv7ey","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:charlotte's web|e. b. white|harper|2001","id":"57yyvq2xx3","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:che-miss-try rentak reaksi|ejart14|bookiut|2025","id":"4xvt72agtc","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:cikgu said|pakhoruzi mohammud|pustaka minda aktif|2012","id":"8n8qhakwea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:co-operation|myan chan|gemilang pub. sdn bhd|2009","id":"g07betnt0n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:dalam hujan lebat|ghazali ngah azia|impiana publications & distributors sdn. bhd|2014","id":"w6khe0geea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:dayang puteri kaenon the most useful in modern life|a. rizal rahim|13061|2001","id":"080f049zcg","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:dibaham buaya|amer haji matsom|cahaya kesturi (m)|2001","id":"74fr7qmea5","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:dinamika sekolah dan bilik darjah|kamaruddin hj. husin|utusan publications & distributors|1994","id":"ztwky565wf","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:doa buat anak solehah ikut cakap ibu bapa, jadi puteri-puteri syurga!|nana syazana|blink book sdn. bhd|2020","id":"m3mbbvd427","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:etika islam di jalan raya|muhammad shahid talib|pustaka ilmi|1997","id":"gen33858fw","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:etnik di sabah|noor risma salfina muhammad rozali|penapro|2006","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:gatalnya hidung saya!|heffa izzar hussain|sasmurni sdn. bhd|2017","id":"gen33858fw","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:gelap mata membawa bencana|abang putera|kompass pub|1993","id":"c99rgwdc3w","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:glass the most useful in modern life|akbar ali abdul hai|pustaka segar|2008","id":"080f049zcg","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:goldilocks and the three bears|rose wilson|kohwai & young publications (malaysia)|2012","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:great mystery hunt a night like no other|nur dalila alias|whitelily writes integrated|2026","id":"8eaf0xpcvq","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:hang tuah|abdullah ishak|penerbitan jaya bakti|1993","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:hanya sampah|zailiani taslim|penerbit prisma|1994","id":"1dw7mbypqs","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:hanyut|amaludin abdul manaf|edusystem|1998","id":"d3cyrvrr9s","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:hari keluarga|m. saleh mahyat|pustaka cita tinggi|2008","id":"2frsezzpx6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:harry potter and the philosopher's stone /​|j. k. rowling|bloomsbury|1997","id":"exn3qtsrev","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:hasil kraf tangan|sulaiman zakaria|cahaya kesturi (m)|2007","id":"vmc642y0ej","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:hatchet|gary paulsen|simon & schuster|2006","id":"eg99mxd8gc","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:hijabistar aurat atau fesyen?|ain maisarah|blink|2024","id":"cxf59543ym","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:hobbit|j. r. r. tolkien|houghton mifflin|2012","id":"yhd98e28n3","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:hui xin fa yu|jiewen shi|xiao yu enterprise|2026","id":"dsg8crcz94","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:i help my dad|zoe sharp|national geographic society|2001","id":"74fr7qmea5","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ibu abu jawhir pergi melamar episod : diari doa imran|aneka|aneka publication & distributors sdn. bhd|2018","id":"n9njm3km3j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ikan sembilang putih|amril shah|pustaka tintamas|2007","id":"c99rgwdc3w","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ikan tergantung, kucing menunggu|wan nor saedah|penerbit sinar cemerlang|2009","id":"kqta6em9xp","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ini buku ini buku 1a|isahak haron|penerbit ilmu bakti sdn. bhd|2015","id":"xvk16sv7ey","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ini tanah kita|puteri fahsyar|pustaka buana|2002","id":"mtbnvw3a02","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:janji yang di mungkiri|kumara velu|12048|","id":"xm7ntsmt81","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jasmin the vain cat|jeffrey tinjom|pustaka mawar|2001","id":"zk5krjbxm6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jauh di sudut hati jauh di sudut hati|haryani luqman|anggun publications|2012","id":"smqz49bd94","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jawi writing competition|jackie foo|malidi publication|2016","id":"r6ek1ywxtc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jejak-jejak pencuri|mirmashah|kompas pub|1991","id":"jraqzfcfdc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jentayu pintar|nurdia azlin|choca enterprise|2003","id":"6svk6xg7pt","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jom eja & kenal benda bandar|haniza amin|mika cemerlang sdn bhd|2027","id":"rmakv61hhr","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:jungle warrior|badariah arbin|institut terjemahan dan buku malaysia|2013","id":"qdt0gvhmqh","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:jurufoto|m. saleh mahyat|penerbit sinar cemerlang|2009","id":"hk79krmznq","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kamus asas bailasa al-basiith|ustaz mohd aziron b. md nor, ustazah nozira salleh|penerbitan bagus sdn. bhd|2017","id":"87w959c492","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kamus komputer dan teknologi maklumat|ong sing goh|utusan publications & distributors|1995","id":"6gbtdb145n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kancil dan gajah|shamsul muzaffar|edukid publication sdn. bhd|2017","id":"m8w27xsrpr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kancil dan gong diraja||edukid publication sdn. bhd|","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kancil, kerbau dan buaya|shamsul muzaffar|edukid publication sdn. bhd|2017","id":"8bh37ewex6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kawan... kita semua sama|abd. ghani che hassan|nur-ilmu|2013","id":"t5cvh88c2d","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kebun yang mengagumkan|nancy parent|38713|2006","id":"brmgv2gyyh","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kecantikan sekeliling saya|s. subramaniam|aneka publication & distributors sdn. bhd|2021","id":"brmgv2gyyh","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kejatuhan kerajaan melayu|ahmad iman arief|sabunai media|2005","id":"gw7s7p6pt2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kejayaan berasaskan perpaduan|fatimah azzahra, yusri ab. malik|penerbit setiamas|1995","id":"qdt0gvhmqh","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:keluarnya yakjuj makjuj zombie pemusnah|akem & the typewriter|buku kaw|2018","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kempen hari perpaduan|amer haji matsom|pustaka printis|2005","id":"rty99mjhh6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kenari merah|sherina sheridan|cipta pub|1994","id":"yf2hd4hcwc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kepentingan sekolah kebangsaan|mohd. zahari ishak|pustaka cita tinggi|2007","id":"g7cnq45sdj","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kepercayaan pada diri sendiri|afiq hamzah|bright publications sdn bhd|2015","id":"6svk6xg7pt","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:khalifah abu jaafar al-mansur|amer haji matsom|penerbit orkid|1993","id":"n9njm3km3j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kisah dato' maharaja lela wira kebanggaan di perak & kisah yamtuan antah menentang british di seri menanti|sofea maisarah|akal bistari|2011","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:koleksi cerita dongeng yang menghiburkan|hasnizah mohamed khalily|mind to mind (m) sdn. bhd|2020","id":"gw7s7p6pt2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:koleksi cerita moral haiwan burung hantu bermata besar|nor azlin japar|kualiti books sdn. bhd|2018","id":"hknk8tpmfz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:komik pendidikan britannica: penemuan dan penciptaan penemuan dan penciptaan|dae jee kim|penerbitan pelangi sdn. bhd|2021","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kontroversi pelajar|siti zawiyah zakaria|penapro|2005","id":"0n2v2ty4w2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:krisis|idha|utusan publications & distributors|1990","id":"c9hz0r7mz6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kucing dan monyet||aneka publication & distribution sdn. bhd|2016","id":"xvk16sv7ey","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:kumpulan belajar|pakhoruzi mohammud|pustaka minda aktif|2012","id":"n3gz12dvnx","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ladang moden|wan raihan karim|sabunai media|2013","id":"xm7ntsmt81","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:lagu seorang budak yang dungu|mohd. rosli saludin|goal intelligent pub|2008","id":"xe07vd3gw6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:lanun pulau hanyut|mirmashah|kompas pub|1991","id":"mtbnvw3a02","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:lemang dan dodol|nurul syifa|edumark distributors|2012","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:letusan gunung berapi|azlina awang|sama publications & distributors|2012","id":"q4r4jtmzxj","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:lion dance|soong s. f|mines publications sdn. bhd|2026","id":"tmrqzhqhpm","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:little bird and the heavy rain|nina karina|penerbitan fargoes|2004","id":"jjp7e20b9z","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:makhluk dari neraka|nir shahmer|edition plus|2010","id":"87w959c492","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:malam pengajaran|sam amiro|pustaka printis|2006","id":"n9njm3km3j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:malangnya tiada ilmu|pakhoruzi mohammud|pustaka kelisa|2015","id":"p53rjxyker","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mana kamu nak lari?|aileen amanda|pena intelek enterprise|2025","id":"ct9mx55rgx","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mariam juara luncur ais juara luncur ais|norhashimah abd. rahman|galeri ilmu sdn. bhd|2009","id":"ajea5vrre3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:marilah pulang!||penerbitan pelangi|2007","id":"n0mgfs6fcy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mayat melintas|pakhoruzi mohammud|pustaka minda aktif|2012","id":"x7xp7zmv2g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:meet the bread vendor|akbar ali abdul hai|penerbit sinar cemerlang|2009","id":"p53rjxyker","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:melahirkan pengguna bijaksana|noraini mohad dom|osc marketing|2009","id":"316863rfr7","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:melepasi badai|sailey azizah|semarak murni enterprise|2015","id":"n4esg7tca0","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:melur|aziz nor|penerbitan pari pari|2013","id":"tpcsjsahdb","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:memahami lambang kebangsaan penemuan dan penciptaan|muhd iqbal haikal|pustaka printis|2006","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:memburu penyeluk saku|m. saleh mahyat|tulip publications|2009","id":"tpcsjsahdb","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:memorabilia||tree q communication (m)|2008","id":"vcf2xn2r87","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:memupuk budaya menabung|halimah abdul rahman|osc marketing|2009","id":"ajea5vrre3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mencari sinar bahagia pemanasan global|jamilah hj. bujang|pep publications sdn bhd|2011","id":"00ajg8k2w9","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mendarat di planet air|wan norsaedah|penerbit pan earth|1990","id":"q4r4jtmzxj","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mendidik anak pintar cerdas bermula dari alam rahim ... bermula dari alam rahim|aminah hasran|darul nu'man|1998","id":"r7b25kfgbr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:meng visits pangkor island|rahmad d|syarikat makmur enterprais|1995","id":"xe07vd3gw6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mengapakah saya harus bersaing?|shafinaz shahidun|bright publications|2003","id":"46frgp0pbz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:mengapakah saya harus setia?|shafinaz shahidun|bright publications|2003","id":"b7dmc3ykgp","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:menyemai sikap dan minda positif demi melahirkan modal insan yang cemerlang|mohamed fadzil che din|pni neuron|2010","id":"hknk8tpmfz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:menyesal|ghazalie ngah azia|choca enterprise|2001","id":"87w959c492","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:merancang perbelanjaan keluarga|rohaya zainudin|osc marketing petaling jaya|2009","id":"hz45ae8jy3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:misi jalur gemilang|abisha naim|pustaka prinsip|2005","id":"8n8qhakwea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:misi solat 5 waktu episod : diari doa imran|nazry salam|pts publishing house sdn. bhd|2019","id":"n9njm3km3j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:misteri menara penunggu ratu balqis|rafidah|penerbitan fargoes|2010","id":"6e3vxame7v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:misteri sebuah tayar|pakhoruzi mohammud|pustaka minda aktif|2012","id":"pww099dcqe","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:misteri sungai baular|ghazali ngah azia|fajar bakti|1996","id":"5h6ps5th7j","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:most faithful of social animals|akbar ali abdul hai|pustaka buana|2008","id":"fqveev6tkc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:musim kemarau|zabri hazry|penerbit eka|2016","id":"7xjhbgpsvp","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:musuh beriman akhirnya|amer haji matsom|pustaka tintamas|2001","id":"m3mbbvd427","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:nabi hud a.s. kaum 'ad ditimpa bala|norul azila arifin|penerbitan addin|2016","id":"pww099dcqe","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:nabi sulaiman a.s. ratu balqis ratu balqis|nor azlin japar|penerbitan addin|2015","id":"6e3vxame7v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:once upon a time... the frog prince|shamsul muzaffar|mind to mind|2024","id":"8bh37ewex6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:operasi dinihari|azizan abdul kadir|edusystem|1993","id":"0tnxwtrgpk","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:orang tawanan|jamalludin othman|nisam enterprise|1998","id":"9001hf4hdv","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:padah pembuli|abisha naim|pustaka prinsip|2008","id":"qx75xm5qjy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pahlawan muda|nir shah putra|edition plus|2009","id":"0n2v2ty4w2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:password guessers|kumara velu|kota ilmiah|2026","id":"w4cpaswkpa","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:patah tumbuh hilang berganti|s. shahril|pustaka angsana|2003","id":"fqveev6tkc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pejuang|azilah razali|mostgain resources publications|2005","id":"c99rgwdc3w","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:peluang kedua|hakimi muhammad|cipta pub|2005","id":"jbth2awab6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pembangunan sosial remaja|suziana che wil|caberawet pub|2005","id":"t5cvh88c2d","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pembela rasulullah saw zubair bin awwam r.a|ridzuan adam|nikaz publications|2010","id":"k0rg8jccde","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perang mulut|ain maisarah|blink book sdn bhd|2017","id":"k0rg8jccde","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perang tabuk|hj. johari alias|penerbitan asa sdn. bhd|1994","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perangai si kembar|amer haji matsom|pustaka tintamas|2008","id":"gyw7jq9x3v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:peristiwa bukit kala|hashim latiff|bright publications sdn bhd|2014","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perkelahan seni|pakhoruzi mohammud|pustaka kelisa|2015","id":"hz45ae8jy3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perkhidmatan dan bimbingan kaunseling di sekolah rendah|ibrahim ahmad|utusan publication & distribution sdn bhd|2002","id":"t5cvh88c2d","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:perpaduan kurangkan jenayah|amer haji matsom|pustaka printis|2005","id":"6yt0b0dbs7","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pertemuan di brisbane pertemuan di brisbane|hasrul syah hassan|nikaz publications|2010","id":"00ajg8k2w9","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pintarnya helah penjajah|nurdia azlin|choca enterprise|2000","id":"0tnxwtrgpk","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pocong asrama lawan banduan penjara|ain maisarah|blink book sdn bhd|2017","id":"n4esg7tca0","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pokok pelbagai guna|shamsiah sabaruddin, surya hafida bahari, zuzitah abd. samad|pustaka bakti wira|1993","id":"9001hf4hdv","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:pokok pisang|mastura ramli|penerbit setiamas|1993","id":"1mjd93awtz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:prophet muhammad’s guidance for children|abdur rauf|dar al wahi publication|2026","id":"304kqz89gy","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:pusaka dibiarkan waris terbeban|hanaffi idris|sezarah nur venture|2026","id":"t58kzraw3d","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:putera katak||mind to mind|2023","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:puteri hazima|lisdy rahayu|darul mughni|2017","id":"g07betnt0n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:puteri malagan|siti munirah|e1 publication sdn. bhd|2011","id":"ztwky565wf","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:rahsia di hulu sungai|pakhoruzi mohammud|pustaka minda aktif|2012","id":"5k0n2s0h0r","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:rahsia sekeping peta|norislah syafiq|ombak baca trading|2024","id":"vkhqhq6fpf","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:raja sakti pura|tok naga|mostgain resources publications|2005","id":"rjzp2z044m","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:raket skuasy nicol?|rosnani majid|sasbadi|2008","id":"r986ss9zkx","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:rama dan sita lotong kasarung|zaen kasturi|edu jaya|2010","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ratapan anak tiri||mind to mind|2024","id":"cxf59543ym","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:resah menunggu|ghazali ngah azia|pustaka mawar|1993","id":"yf2hd4hcwc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:rumah api kanser|hasmadi|cipta publishing|1993","id":"cxf59543ym","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sahabat berdikari|amirul hakim|mostgain resources publications|2006","id":"aagec1vezd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sahabat sekampung|ghazali ngah azia|pustaka mawar|1993","id":"n4esg7tca0","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sains|muhammad bin harun|eph publishing (m) sdn. bhd|2026","id":"z8sxq106r1","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sajak perantau|wahba|pustaka permai|2015","id":"6e3vxame7v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sandiwara si penangkap ikan|nur sofea|anugerah publications|2009","id":"gen33858fw","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sawah ladangnya|m. saleh mahyat|impiana publications|2008","id":"vkhqhq6fpf","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:say ''sorry...''|melissa chin|pustaka nurani|2026","id":"a59v1kq5g8","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:science up! pemanasan global|woo-jong kim|penerbitan pelangi sdn. bhd|2019","id":"00ajg8k2w9","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:secantik ana|que lyana shuhaimi|ana muslim sdn bhd|2015","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sejarah dan zaman silam|muhammad bin harun|eddiplex|1995","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sekolah saya||7742|","id":"a4shcjy3y6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sengaja menempa nahas|liasukmaliza|eddiplex|2008","id":"6e3vxame7v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sengsara membawa kebahagiaan|amirul hakim|mostgain resources publications|2006","id":"g07betnt0n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:senja merah lotong kasarung|arena putera|penerbitan fargoes|1993","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:serangan harimau di kuala balah|amer tuan h. matsom|content plus|2013","id":"w6khe0geea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:serigala dengan sang kerbau|muhammad bin harun|pustaka prinsip|2005","id":"6svk6xg7pt","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sesal kemudian tak berguna|azilah razali|mostgain resources publications|2005","id":"wh9njw3ezq","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:setinggi terbang bangau|zainawati mahmood|pustaka serindit|2010","id":"8t9jgmdb7n","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sherlock holmes perangkap rumah kosong, jurubina dari norwood & rahsia orang menari = the adventure of the empty house, the adventure of the norwood builder & the adventure of the dancing men|hidayati kasuma abdul hadi|penerbit x|2020","id":"wsmvagqzx3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sisa toksik ; racun perosak|rozita ibrahim|23722|","id":"mk5z7mrmvr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sistem demokrasi berparlimen|rohailiza kasim|pelita jaya enterprise|2010","id":"46frgp0pbz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:snail|normah othman|penerbitan fargoes|2004","id":"2w1b9fstmy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:spesies serangga|azlina ahmad|penerbit mikamas|2001","id":"brmgv2gyyh","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:squirrel tricked the monkey|akmar effendi|junior pages publications|2010","id":"fqveev6tkc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:suara aneh di hutan hijau|norislah syafiq|ombak baca trading|2024","id":"pww099dcqe","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:suara misteri dari dusun|norislah syafiq|ombak baca trading|2024","id":"pww099dcqe","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:successful young man|alice kee|pustaka cergas jaya|2011","id":"1dw7mbypqs","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:suhaib bin sinan dagangannya dibeli allah|muhammad afif, zainurin lokman|pustaka tintamas|2002","id":"1dw7mbypqs","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:sumpahan sang kelambai sulaiman zakaria|sulaiman zakaria|makmur educational supplies|2014","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:suu phea|abu hassan morad|amn publication enterprise|2007","id":"1dw7mbypqs","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:taat antonimnya ingkar|w. s. uzala|eddiplex|2001","id":"1dw7mbypqs","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:takdir untuk wafi|quelyana shuhaimi|ana muslim sdn bhd|2015","id":"jbth2awab6","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tamu sungai ara|mohd. haiqal omar|edusystem|1993","id":"r7b25kfgbr","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tanggungjawab mulia, tanggungjawab bersama sulaiman zakaria|muhamad ismail ahmad, suziana che wil|caberawet pub|2005","id":"60xtt34bxn","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:telaga di tengah paya|osman ayob|pusat penerbitan universiti, universiti teknologi mara|2010","id":"hknk8tpmfz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tembok tidak tinggi|a. samad ismail|buku fixi sdn bhd|2024","id":"tpcsjsahdb","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:teori dan teknik kepimpinan panduan aplikasi di tempat kerja|ainon muhammad|pts professional pub|2003","id":"wsmvagqzx3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:terangnya cahaya|suraya hussin|city megazone|2006","id":"b7dmc3ykgp","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:terbongkar juga akhirnya|sailey azizah|semarak murni enterprise|2015","id":"5k6e0d8p93","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:terciptanya plastik|everlyn gan|penerbit sinar cemerlang|2012","id":"0ftqhpnwk4","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:terjebak di perpustakaan|mohd. jaffry mahidin|pustaka bakti wira|1997","id":"r6ek1ywxtc","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:terjunam dalam kelam|w. s. uzala|sama publications & distributors|2012","id":"kmznws5qg3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tikus dan singa & lain-lain cerita|nikhila kilambi|edukid publication sdn. bhd|2017","id":"wh9njw3ezq","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tips merawat tekanan mental (stress)|amina hj. noor|al-hidayah publishers|2000","id":"50dbfjjbv9","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tokoh elektrik|jasiman ahmad|mostgain resources publications|2011","id":"n3gz12dvnx","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tragedi orang lemah|nasir mat ali|penerbitan d e|2020","id":"8n8qhakwea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tumpasnya penyamun sihir|zarinah ismail|pustaka permai|2014","id":"s6075wjyhd","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:tumpasnya sindiket dadah|noorziah|penerbit warisan|2001","id":"gw7s7p6pt2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:ubah patah hati jadi prestasi|addien abdul kadir|open bridge publications sdn. bhd|2021","id":"7hf3tb1dph","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:umpama tebuan bersarang rendah, jangan sampai terjolokkan|w. s. uzala|eddiplex|2005","id":"ajea5vrre3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:uzayr dan keldainya|noor a'ina yusof|scholar's publications|2006","id":"hy4yrj0w64","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:yang jauh dan dekat|hilmi rindu|alaf ilmu|2015","id":"gw7s7p6pt2","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"fb:zhen’ai heping maliujia huatuan zhuban : riben touxiang 80 zhounian jinianhui tekan|moyi shen|malacca chinese assembly hall|2026","id":"jk9qg2b933","type":"fallback","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"fb:zirafah berleher panjang|zulina hassan|galeri ilmu sdn. bhd|2019","id":"gen33858fw","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:1740655419","id":"74fr7qmea5","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9676101753","id":"c9hz0r7mz6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9676104876","id":"ztwky565wf","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9676105589","id":"6gbtdb145n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9676113840","id":"t5cvh88c2d","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679004287","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679062333","id":"0tnxwtrgpk","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679062414","id":"r7b25kfgbr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679200361","id":"gw7s7p6pt2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679273202","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679385019","id":"zk5krjbxm6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679386570","id":"x7xp7zmv2g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679485870","id":"wh9njw3ezq","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679522016","id":"mtbnvw3a02","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679522032","id":"jraqzfcfdc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679522113","id":"c99rgwdc3w","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:967956665X","id":"q4r4jtmzxj","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679570355","id":"gw7s7p6pt2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9679643247","id":"5r062mfx7g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9780064400558","id":"57yyvq2xx3","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9780547928227","id":"yhd98e28n3","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9780553380163","id":"etj2gt13ws","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9780747532699","id":"exn3qtsrev","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9781416936473","id":"eg99mxd8gc","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9781426220654","id":"tj6czhb46j","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9781741403183","id":"rty99mjhh6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9781741693690","id":"ztwky565wf","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9786294804197","id":"tmrqzhqhpm","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9786294821583","id":"8bh37ewex6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9786297633305","id":"rmakv61hhr","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9786297676173","id":"w4cpaswkpa","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9786299450122","id":"8eaf0xpcvq","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9786299579786","id":"0j2xwsaq6y","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789670028422","id":"smqz49bd94","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670063386","id":"ct9mx55rgx","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670330082","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670363356","id":"6e3vxame7v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670363783","id":"pww099dcqe","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670416205","id":"m8w27xsrpr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670475332","id":"xvk16sv7ey","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670492490","id":"6e3vxame7v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670492582","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670501574","id":"n9njm3km3j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670510637","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670523507","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670523743","id":"6svk6xg7pt","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670594682","id":"5k6e0d8p93","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670594712","id":"n4esg7tca0","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670619446","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670619484","id":"cxf59543ym","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670650173","id":"7xjhbgpsvp","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670729725","id":"304kqz89gy","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789670776132","id":"gw7s7p6pt2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670824055","id":"xvk16sv7ey","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670880563","id":"g07betnt0n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670918327","id":"87w959c492","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670948676","id":"gen33858fw","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789670963082","id":"r6ek1ywxtc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789671144145","id":"jk9qg2b933","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789671487389","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789671572610","id":"t58kzraw3d","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789672040224","id":"k0rg8jccde","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672040248","id":"n4esg7tca0","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672040903","id":"m3mbbvd427","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672135470","id":"8n8qhakwea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672367154","id":"vkhqhq6fpf","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672367178","id":"pww099dcqe","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672367185","id":"pww099dcqe","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672433910","id":"gw7s7p6pt2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672656593","id":"dsg8crcz94","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789672865803","id":"cxf59543ym","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672930747","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789672950257","id":"a59v1kq5g8","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789673012756","id":"g07betnt0n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673053902","id":"hknk8tpmfz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673073764","id":"wh9njw3ezq","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673074426","id":"6e3vxame7v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673458431","id":"00ajg8k2w9","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673510993","id":"hknk8tpmfz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673561414","id":"w6khe0geea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673590087","id":"fqveev6tkc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673643721","id":"m8w27xsrpr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673643769","id":"8bh37ewex6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673643813","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673643943","id":"wh9njw3ezq","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673643974","id":"1mjd93awtz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673692798","id":"r7b25kfgbr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673694679","id":"7hf3tb1dph","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673694693","id":"wsmvagqzx3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673699735","id":"4xvt72agtc","type":"isbn","ts":"2026-11-25T03:22:28.566Z"}
-{"key":"isbn:9789673760732","id":"5k6e0d8p93","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870233","id":"n9njm3km3j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870431","id":"n3gz12dvnx","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870455","id":"x7xp7zmv2g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870462","id":"pww099dcqe","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870776","id":"8n8qhakwea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870806","id":"wsmvagqzx3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870813","id":"g07betnt0n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673870837","id":"5k0n2s0h0r","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673921720","id":"p53rjxyker","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673921737","id":"hz45ae8jy3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673921768","id":"7hf3tb1dph","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673950362","id":"q4r4jtmzxj","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673950416","id":"kmznws5qg3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789673962242","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674301439","id":"qdt0gvhmqh","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674491079","id":"jbth2awab6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674491277","id":"5r062mfx7g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674491871","id":"8h5zv3v96d","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674536923","id":"hknk8tpmfz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674642020","id":"xvk16sv7ey","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674642075","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674642129","id":"6svk6xg7pt","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674811402","id":"n9njm3km3j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789674996079","id":"brmgv2gyyh","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675021626","id":"8t9jgmdb7n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675023132","id":"w6khe0geea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675145070","id":"vcf2xn2r87","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675155031","id":"hk79krmznq","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675155253","id":"kqta6em9xp","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675155338","id":"p53rjxyker","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675262227","id":"0n2v2ty4w2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675262883","id":"87w959c492","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675280108","id":"ajea5vrre3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675280146","id":"hz45ae8jy3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675280153","id":"316863rfr7","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675281389","id":"5r062mfx7g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675409844","id":"xm7ntsmt81","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675411137","id":"6d5g1hqd7c","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675416774","id":"0ftqhpnwk4","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675421198","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675434297","id":"n3gz12dvnx","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675566769","id":"t5cvh88c2d","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675581465","id":"k0rg8jccde","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675658020","id":"5r062mfx7g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675658037","id":"jbth2awab6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675659126","id":"tpcsjsahdb","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675892004","id":"ztwky565wf","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789675986215","id":"1dw7mbypqs","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789676535702","id":"5h6ps5th7j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789679064636","id":"d3cyrvrr9s","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830096469","id":"00ajg8k2w9","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830235219","id":"g7cnq45sdj","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830236254","id":"2frsezzpx6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830460062","id":"r7b25kfgbr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830532844","id":"8n8qhakwea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830534701","id":"qx75xm5qjy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830552378","id":"0n2v2ty4w2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830556925","id":"46frgp0pbz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830574431","id":"d3cyrvrr9s","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830684482","id":"cxf59543ym","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830685953","id":"gyw7jq9x3v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830687223","id":"vcf2xn2r87","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830687797","id":"rty99mjhh6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830688237","id":"5k0n2s0h0r","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830688329","id":"w6khe0geea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830972183","id":"ajea5vrre3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830978628","id":"gen33858fw","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789830992129","id":"50dbfjjbv9","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831081914","id":"6svk6xg7pt","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831351819","id":"c99rgwdc3w","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831352076","id":"gyw7jq9x3v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831352328","id":"mtbnvw3a02","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831434000","id":"kmznws5qg3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831882047","id":"00ajg8k2w9","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831882184","id":"k0rg8jccde","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789831921814","id":"wsmvagqzx3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789832400271","id":"b7dmc3ykgp","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789832400356","id":"46frgp0pbz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789832632450","id":"fqveev6tkc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833036165","id":"t5cvh88c2d","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833036196","id":"60xtt34bxn","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833249138","id":"c99rgwdc3w","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833249466","id":"g07betnt0n","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833322916","id":"a4shcjy3y6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833479917","id":"vmc642y0ej","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833515431","id":"hy4yrj0w64","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833535873","id":"tpcsjsahdb","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833566815","id":"smqz49bd94","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833567850","id":"gen33858fw","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833796717","id":"vkhqhq6fpf","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789833989522","id":"080f049zcg","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789835938689","id":"r986ss9zkx","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838270205","id":"9001hf4hdv","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838323970","id":"5r062mfx7g","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838750455","id":"yf2hd4hcwc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838777629","id":"74fr7qmea5","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838804868","id":"z8sxq106r1","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838806428","id":"ajea5vrre3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9789838807937","id":"6e3vxame7v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9814174637","id":"brmgv2gyyh","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9830026914","id":"n0mgfs6fcy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9830212394","id":"fqveev6tkc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983023438X","id":"mk5z7mrmvr","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9830532704","id":"6svk6xg7pt","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9830752143","id":"brmgv2gyyh","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9830780880","id":"ajea5vrre3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831081498","id":"0tnxwtrgpk","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831081773","id":"74fr7qmea5","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831081900","id":"87w959c492","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831280601","id":"jjp7e20b9z","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831281462","id":"2w1b9fstmy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831350316","id":"m3mbbvd427","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9831350618","id":"1dw7mbypqs","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983225342X","id":"080f049zcg","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9832336422","id":"mtbnvw3a02","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9832562384","id":"b7dmc3ykgp","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9832612586","id":"gw7s7p6pt2","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9832943035","id":"1dw7mbypqs","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833249086","id":"rjzp2z044m","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833249205","id":"wh9njw3ezq","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833249388","id":"aagec1vezd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833272304","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833334288","id":"8n8qhakwea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833730558","id":"xe07vd3gw6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9833730752","id":"tv2maqj782","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838030295","id":"qdt0gvhmqh","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838030511","id":"1mjd93awtz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983809028X","id":"cxf59543ym","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838090476","id":"yf2hd4hcwc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838093017","id":"jbth2awab6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838231320","id":"1dw7mbypqs","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838271268","id":"r6ek1ywxtc","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983832339X","id":"rty99mjhh6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983832342X","id":"6yt0b0dbs7","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983832356X","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838323659","id":"n9njm3km3j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838431133","id":"xe07vd3gw6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838750468","id":"n4esg7tca0","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838752428","id":"zk5krjbxm6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983880214X","id":"s6075wjyhd","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838804320","id":"1dw7mbypqs","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838806242","id":"xvk16sv7ey","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838910589","id":"n9njm3km3j","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9838931519","id":"tpcsjsahdb","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9839665235","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9839665774","id":"w6khe0geea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9839763296","id":"9001hf4hdv","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983976344X","id":"e0rpvjm1jy","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9839764888","id":"hknk8tpmfz","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:983976490X","id":"xm7ntsmt81","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
-{"key":"isbn:9839888854","id":"gen33858fw","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
+{"key":"035:(SKTR)1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1002","id":"qxrcgra008","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1003","id":"a9zh30ga0s","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1004","id":"xjckphkjv6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1005","id":"a1gfprqvqv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1006","id":"pcr7gp5kz8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1007","id":"de3p5ryk4y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1008","id":"rphaden47k","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1009","id":"jt1646dvpy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1010","id":"sbb4sk43yw","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1011","id":"6jbfa3wzy1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1012","id":"hm5mzsphts","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1013","id":"8hnradd1b0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1014","id":"nn7pbn5jn1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1015","id":"ajbdkeb31m","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1016","id":"rwqdktks6g","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1017","id":"b5c29a6yk7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1018","id":"khnjrt3ekz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1019","id":"stb6gz4ptx","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1020","id":"5bnfw9dxct","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1021","id":"vdjkqejq2r","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1022","id":"7cfqmd5ckr","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1023","id":"bh0gaynkma","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1024","id":"25xgxxmqh6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1025","id":"kw2wr3zc1w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1026","id":"12anxapj0q","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1027","id":"s7p55e5yt7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1028","id":"z2p02t5erm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1029","id":"91pzkyz3f0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1030","id":"09rt5m3wmn","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1031","id":"8n3x0d52ec","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1032","id":"k4y996g7f3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1033","id":"jvyjczgvqv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1034","id":"5dgh50gm9d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1035","id":"btp4x77s5e","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1036","id":"prbz4nv9a1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1037","id":"0dwzhbhbn7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1038","id":"qw0hjzdw8k","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1039","id":"hc7q10gjp8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1040","id":"7dk2pwv2bg","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1041","id":"nhy4r0jdps","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1042","id":"f1tb7p2126","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1043","id":"302bmccfzz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1044","id":"j8rpm4xbhq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1045","id":"7mqjgsfs0y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1046","id":"fyy3tj6gwh","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1047","id":"vaf7r4mewt","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1048","id":"4zcghpnm07","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1049","id":"ytwac9k1sd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1050","id":"j3tthd3gcd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1051","id":"gkq6fd81ww","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1052","id":"p1mqy577bc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1053","id":"s19k9dvj9f","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1054","id":"ed1ct30rey","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1055","id":"az64d65t55","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1056","id":"m8fr3sz6h5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1057","id":"1d0a4ap7n5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1058","id":"nvzdjzksmt","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1059","id":"tbqkw87ekv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1060","id":"65e91wzrtm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1061","id":"p8me0p7a1m","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1062","id":"qdgax19e1q","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1063","id":"y6wzfq8jbj","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1064","id":"rjvkxckvb6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1065","id":"je6w90jpat","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1066","id":"qrbtewh8ar","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1067","id":"9900pmn1v5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1068","id":"73trf0sg42","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1069","id":"s3hva6q45d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1070","id":"nfm5q6v5bs","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1071","id":"mm7x9cj2mq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1072","id":"s7bvj4agm0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1073","id":"mpkpfk9fdd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1074","id":"fmz6zwhpsd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1075","id":"4a6mpc54h6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1076","id":"qv64mq7yvy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1077","id":"3epkfhkbp6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1078","id":"wqap5ck730","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1079","id":"pnaj5n5cf3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1080","id":"4qea298t9n","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1081","id":"pfv7qx25fj","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1082","id":"g43v99hk6n","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1083","id":"qve7wzs27g","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1084","id":"qqrvbnjyx7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1085","id":"wp8b40ma4v","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1086","id":"77nw5k1bv5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1087","id":"pz1ayrfm6w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1088","id":"0x4jm5x9kz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1089","id":"9ctygpn3n2","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1090","id":"4zcghpnm07","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1091","id":"mv8mx9zgna","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1092","id":"vhxt66306w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1093","id":"8ba55p8hrc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1094","id":"f8a0aj4wha","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1095","id":"dac8871a16","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1096","id":"xq2qg5kf49","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)1097","id":"3ph13r1xr2","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:(SKTR)B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1002","id":"qxrcgra008","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1003","id":"a9zh30ga0s","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1004","id":"xjckphkjv6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1005","id":"a1gfprqvqv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1006","id":"pcr7gp5kz8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1007","id":"de3p5ryk4y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1008","id":"rphaden47k","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1009","id":"jt1646dvpy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1010","id":"sbb4sk43yw","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1011","id":"6jbfa3wzy1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1012","id":"hm5mzsphts","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1013","id":"8hnradd1b0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1014","id":"nn7pbn5jn1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1015","id":"ajbdkeb31m","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1016","id":"rwqdktks6g","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1017","id":"b5c29a6yk7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1018","id":"khnjrt3ekz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1019","id":"stb6gz4ptx","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1020","id":"5bnfw9dxct","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1021","id":"vdjkqejq2r","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1022","id":"7cfqmd5ckr","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1023","id":"bh0gaynkma","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1024","id":"25xgxxmqh6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1025","id":"kw2wr3zc1w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1026","id":"12anxapj0q","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1027","id":"s7p55e5yt7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1028","id":"z2p02t5erm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1029","id":"91pzkyz3f0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1030","id":"09rt5m3wmn","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1031","id":"8n3x0d52ec","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1032","id":"k4y996g7f3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1033","id":"jvyjczgvqv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1034","id":"5dgh50gm9d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1035","id":"btp4x77s5e","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1036","id":"prbz4nv9a1","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1037","id":"0dwzhbhbn7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1038","id":"qw0hjzdw8k","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1039","id":"hc7q10gjp8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1040","id":"7dk2pwv2bg","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1041","id":"nhy4r0jdps","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1042","id":"f1tb7p2126","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1043","id":"302bmccfzz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1044","id":"j8rpm4xbhq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1045","id":"7mqjgsfs0y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1046","id":"fyy3tj6gwh","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1047","id":"vaf7r4mewt","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1048","id":"4zcghpnm07","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1049","id":"ytwac9k1sd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1050","id":"j3tthd3gcd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1051","id":"gkq6fd81ww","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1052","id":"p1mqy577bc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1053","id":"s19k9dvj9f","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1054","id":"ed1ct30rey","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1055","id":"az64d65t55","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1056","id":"m8fr3sz6h5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1057","id":"1d0a4ap7n5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1058","id":"nvzdjzksmt","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1059","id":"tbqkw87ekv","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1060","id":"65e91wzrtm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1061","id":"p8me0p7a1m","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1062","id":"qdgax19e1q","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1063","id":"y6wzfq8jbj","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1064","id":"rjvkxckvb6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1065","id":"je6w90jpat","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1066","id":"qrbtewh8ar","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1067","id":"9900pmn1v5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1068","id":"73trf0sg42","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1069","id":"s3hva6q45d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1070","id":"nfm5q6v5bs","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1071","id":"mm7x9cj2mq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1072","id":"s7bvj4agm0","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1073","id":"mpkpfk9fdd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1074","id":"fmz6zwhpsd","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1075","id":"4a6mpc54h6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1076","id":"qv64mq7yvy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1077","id":"3epkfhkbp6","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1078","id":"wqap5ck730","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1079","id":"pnaj5n5cf3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1080","id":"4qea298t9n","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1081","id":"pfv7qx25fj","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1082","id":"g43v99hk6n","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1083","id":"qve7wzs27g","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1084","id":"qqrvbnjyx7","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1085","id":"wp8b40ma4v","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1086","id":"77nw5k1bv5","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1087","id":"pz1ayrfm6w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1088","id":"0x4jm5x9kz","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1089","id":"9ctygpn3n2","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1090","id":"4zcghpnm07","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1091","id":"mv8mx9zgna","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1092","id":"vhxt66306w","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1093","id":"8ba55p8hrc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1094","id":"f8a0aj4wha","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1095","id":"dac8871a16","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1096","id":"xq2qg5kf49","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-1097","id":"3ph13r1xr2","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1003","id":"eg99mxd8gc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1004","id":"yhd98e28n3","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1005","id":"tj6czhb46j","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1006","id":"4xvt72agtc","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1007","id":"0j2xwsaq6y","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1008","id":"jk9qg2b933","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1009","id":"rmakv61hhr","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1010","id":"dsg8crcz94","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1011","id":"8eaf0xpcvq","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1012","id":"w4cpaswkpa","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1013","id":"304kqz89gy","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"035:SKTR-B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:101 senarai penting bagi penyelaras keperluan pendidikan khas 101 essential lists for sencos|kate griffiths|institut terjemahan negara malaysia berhad|2011","id":"12anxapj0q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:101 senarai penting menguruskan tingkah laku dalam perkembangan awal kanak-kanak 101 essential lists on managing behaviour in the early years|simon brownhill|institut terjemahan negara malaysia berhad|2011","id":"khnjrt3ekz","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:101 senarai penting menguruskan tingkah laku di sekolah rendah 101 essential lists on managing behaviour in the primary school|alex griffiths|institut terjemahan & buku malaysia berhad|2012","id":"bh0gaynkma","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:101 senarai penting untuk penggunaan ict di bilik darjah : 101 essential lists for using ict in the classroom|george cole|institut terjemahan & buku malaysia berhad|2012","id":"stb6gz4ptx","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:2026 panduan asas muallaf modul akhlak dan adab|mohd. nizho abdul rahman|institut penyelidikan dan inovasi zakat, univeristi utara malaysia|2026","id":"0j2xwsaq6y","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:5000 alam mutiara kata jilid 3|hassan|associated educational|2000","id":"b5c29a6yk7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:abdul manaf dan abdul halim 101 essential lists for sencos|baharin nasar|penerbit prisma|1992","id":"12anxapj0q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:abu khair dan abu shair|nor aziz|eman media enterprise|2013","id":"pnaj5n5cf3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:adibah amin|nurul syifa|goodmark enterprise|2008","id":"302bmccfzz","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:air sungai jali|pakhoruzi mohammud|pustaka minda aktif|2012","id":"91pzkyz3f0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:akal berhelah|badrol risyam|pustaka minda aktif|2012","id":"y6wzfq8jbj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:akibat dengki|na'eme haji hassan|sama publications & distributors|1995","id":"m8fr3sz6h5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:akibat gelojoh dan tindakan tanpa usul periksa|mohd shafie|pustaka cahaya ilmu|2010","id":"0x4jm5x9kz","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:akibat membangga diri|safiah md. yassin|i mahir sdn. bhd|2015","id":"qve7wzs27g","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:akibat tamak|nor aziz|eman media enterprise|2013","id":"6jbfa3wzy1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:aku dan rio|siti nur nadiah zakaria|penerbit prisma sdn bhd|2015","id":"p8me0p7a1m","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:alergi udara jauh di sudut hati|tadatada|kadokawa gempak starz sdn bhd|2022","id":"s3hva6q45d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:amanah yang mulia juara luncur ais|ghazali ngah azia|pustaka murni|1998","id":"nhy4r0jdps","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:anak kembar encik harun jilid 3|suraida|penerbitan fargoes|2010","id":"b5c29a6yk7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:anggur adalah masam|nurdia azlin|aneka publication & distribution sdn. bhd|2016","id":"az64d65t55","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:angsa putih yang bersih|mohd. rosli saludin|goal intelligent pub|2008","id":"a1gfprqvqv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:animals|jill eggleton|scholastic|2011","id":"jvyjczgvqv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:antologi cerpen cahaya langit|abdullah hussain|penerbit penamas sdn. bhd|1987","id":"nvzdjzksmt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:apa gunanya sampah?|edward close|orbit buku|2011","id":"mpkpfk9fdd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:arak dan godaan iblis|na'eme haji hassan|pustaka tintamas|2008","id":"vaf7r4mewt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:arnab dan kura-kura||aneka publication & distribution sdn. bhd|2016","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:atlas of the world|national geographic|national geographic|2015","id":"tj6czhb46j","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bagaimanakah keadaannya? kanser|angela royston|institut terjemahan negara malaysia|2010","id":"wqap5ck730","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bahasa jiwa bangsa|zarina zainal abidin|osc pub. & marketing|2013","id":"3epkfhkbp6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bakti si omar burung hantu bermata besar|kumara velu|pustaka rejang|1998","id":"p1mqy577bc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:basikal tua pak hasan|ariff abu bakar|13335|1993","id":"tbqkw87ekv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:berjumpa wartawan|pakhoruzi mohammud|pustaka minda aktif|2013","id":"5dgh50gm9d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bermulalah bencana|w. s. uzala|eddiplex|2005","id":"gkq6fd81ww","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bet between two warriors|ghazali ngah azia|gunung ilmu|2013","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:biografi ayah|pakhoruzi mohammud|pustaka kelisa|2015","id":"btp4x77s5e","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bobbie and the play : 101 essential lists for using ict in the classroom|monica hughes|pearson rigby|1999","id":"stb6gz4ptx","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:brave mousedeer|the smart mousedeer series|kiddibird sdn. bhd|2005","id":"s19k9dvj9f","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:brief history of time|stephen hawking|bantam|1998","id":"etj2gt13ws","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:broken promise|kumara velu|21552|1998","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:buat jahat dibalas jahat serta cerita lain|mohd zhariff|edukid publication sdn. bhd|2017","id":"g43v99hk6n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:budi bahasa dalam kerjaya|noor azilawati mohd. sabda|pustaka printis|2008","id":"pnaj5n5cf3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:bunyi dan pendengaran|claire llewellyn|institut terjemahan negara malaysia|2010","id":"qrbtewh8ar","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:buyung dengan geliga sakti|sulaiman zakaria|penerbit mega setia emas|2002","id":"qw0hjzdw8k","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:carbonara untuk opah|aidil fadzil|ana muslim sdn. bhd|2017","id":"4a6mpc54h6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:catatan matluthfi|matluthfi|open bridge publications|2015","id":"pcr7gp5kz8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:cerita tok busu ini buku 1a|zarina ismail|pustaka cergas jaya|2014","id":"gkq6fd81ww","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:charlotte's web|e. b. white|harper|2001","id":"57yyvq2xx3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:che-miss-try rentak reaksi|ejart14|bookiut|2025","id":"4xvt72agtc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:cikgu said|pakhoruzi mohammud|pustaka minda aktif|2012","id":"s19k9dvj9f","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:co-operation|myan chan|gemilang pub. sdn bhd|2009","id":"5dgh50gm9d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:dalam hujan lebat|ghazali ngah azia|impiana publications & distributors sdn. bhd|2014","id":"12anxapj0q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:dayang puteri kaenon the most useful in modern life|a. rizal rahim|13061|2001","id":"09rt5m3wmn","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:dibaham buaya|amer haji matsom|cahaya kesturi (m)|2001","id":"p8me0p7a1m","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:dinamika sekolah dan bilik darjah|kamaruddin hj. husin|utusan publications & distributors|1994","id":"jvyjczgvqv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:doa buat anak solehah ikut cakap ibu bapa, jadi puteri-puteri syurga!|nana syazana|blink book sdn. bhd|2020","id":"jt1646dvpy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:etika islam di jalan raya|muhammad shahid talib|pustaka ilmi|1997","id":"4qea298t9n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:etnik di sabah|noor risma salfina muhammad rozali|penapro|2006","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:gatalnya hidung saya!|heffa izzar hussain|sasmurni sdn. bhd|2017","id":"4qea298t9n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:gelap mata membawa bencana|abang putera|kompass pub|1993","id":"f8a0aj4wha","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:glass the most useful in modern life|akbar ali abdul hai|pustaka segar|2008","id":"09rt5m3wmn","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:goldilocks and the three bears|rose wilson|kohwai & young publications (malaysia)|2012","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:great mystery hunt a night like no other|nur dalila alias|whitelily writes integrated|2026","id":"8eaf0xpcvq","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hang tuah|abdullah ishak|penerbitan jaya bakti|1993","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hanya sampah|zailiani taslim|penerbit prisma|1994","id":"fmz6zwhpsd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hanyut|amaludin abdul manaf|edusystem|1998","id":"302bmccfzz","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hari keluarga|m. saleh mahyat|pustaka cita tinggi|2008","id":"77nw5k1bv5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:harry potter and the philosopher's stone /​|j. k. rowling|bloomsbury|1997","id":"exn3qtsrev","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hasil kraf tangan|sulaiman zakaria|cahaya kesturi (m)|2007","id":"xq2qg5kf49","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hatchet|gary paulsen|simon & schuster|2006","id":"eg99mxd8gc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hijabistar aurat atau fesyen?|ain maisarah|blink|2024","id":"wqap5ck730","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hobbit|j. r. r. tolkien|houghton mifflin|2012","id":"yhd98e28n3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:hui xin fa yu|jiewen shi|xiao yu enterprise|2026","id":"dsg8crcz94","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:i help my dad|zoe sharp|national geographic society|2001","id":"p8me0p7a1m","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ibu abu jawhir pergi melamar episod : diari doa imran|aneka|aneka publication & distributors sdn. bhd|2018","id":"y6wzfq8jbj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ikan sembilang putih|amril shah|pustaka tintamas|2007","id":"f8a0aj4wha","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ikan tergantung, kucing menunggu|wan nor saedah|penerbit sinar cemerlang|2009","id":"mv8mx9zgna","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ini buku ini buku 1a|isahak haron|penerbit ilmu bakti sdn. bhd|2015","id":"gkq6fd81ww","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ini tanah kita|puteri fahsyar|pustaka buana|2002","id":"vaf7r4mewt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:janji yang di mungkiri|kumara velu|12048|","id":"0dwzhbhbn7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jasmin the vain cat|jeffrey tinjom|pustaka mawar|2001","id":"tbqkw87ekv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jauh di sudut hati jauh di sudut hati|haryani luqman|anggun publications|2012","id":"s3hva6q45d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jawi writing competition|jackie foo|malidi publication|2016","id":"vdjkqejq2r","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jejak-jejak pencuri|mirmashah|kompas pub|1991","id":"8ba55p8hrc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jentayu pintar|nurdia azlin|choca enterprise|2003","id":"az64d65t55","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jom eja & kenal benda bandar|haniza amin|mika cemerlang sdn bhd|2027","id":"rmakv61hhr","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jungle warrior|badariah arbin|institut terjemahan dan buku malaysia|2013","id":"9900pmn1v5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:jurufoto|m. saleh mahyat|penerbit sinar cemerlang|2009","id":"f1tb7p2126","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kamus asas bailasa al-basiith|ustaz mohd aziron b. md nor, ustazah nozira salleh|penerbitan bagus sdn. bhd|2017","id":"nn7pbn5jn1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kamus komputer dan teknologi maklumat|ong sing goh|utusan publications & distributors|1995","id":"ytwac9k1sd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kancil dan gajah|shamsul muzaffar|edukid publication sdn. bhd|2017","id":"qve7wzs27g","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kancil dan gong diraja||edukid publication sdn. bhd|","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kancil, kerbau dan buaya|shamsul muzaffar|edukid publication sdn. bhd|2017","id":"a9zh30ga0s","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kawan... kita semua sama|abd. ghani che hassan|nur-ilmu|2013","id":"8n3x0d52ec","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kebun yang mengagumkan|nancy parent|38713|2006","id":"9ctygpn3n2","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kecantikan sekeliling saya|s. subramaniam|aneka publication & distributors sdn. bhd|2021","id":"9ctygpn3n2","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kejatuhan kerajaan melayu|ahmad iman arief|sabunai media|2005","id":"nvzdjzksmt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kejayaan berasaskan perpaduan|fatimah azzahra, yusri ab. malik|penerbit setiamas|1995","id":"9900pmn1v5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:keluarnya yakjuj makjuj zombie pemusnah|akem & the typewriter|buku kaw|2018","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kempen hari perpaduan|amer haji matsom|pustaka printis|2005","id":"stb6gz4ptx","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kenari merah|sherina sheridan|cipta pub|1994","id":"3ph13r1xr2","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kepentingan sekolah kebangsaan|mohd. zahari ishak|pustaka cita tinggi|2007","id":"z2p02t5erm","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kepercayaan pada diri sendiri|afiq hamzah|bright publications sdn bhd|2015","id":"az64d65t55","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:khalifah abu jaafar al-mansur|amer haji matsom|penerbit orkid|1993","id":"y6wzfq8jbj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kisah dato' maharaja lela wira kebanggaan di perak & kisah yamtuan antah menentang british di seri menanti|sofea maisarah|akal bistari|2011","id":"pnaj5n5cf3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:koleksi cerita dongeng yang menghiburkan|hasnizah mohamed khalily|mind to mind (m) sdn. bhd|2020","id":"nvzdjzksmt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:koleksi cerita moral haiwan burung hantu bermata besar|nor azlin japar|kualiti books sdn. bhd|2018","id":"p1mqy577bc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:komik pendidikan britannica: penemuan dan penciptaan penemuan dan penciptaan|dae jee kim|penerbitan pelangi sdn. bhd|2021","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kontroversi pelajar|siti zawiyah zakaria|penapro|2005","id":"prbz4nv9a1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:krisis|idha|utusan publications & distributors|1990","id":"wp8b40ma4v","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kucing dan monyet||aneka publication & distribution sdn. bhd|2016","id":"gkq6fd81ww","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:kumpulan belajar|pakhoruzi mohammud|pustaka minda aktif|2012","id":"hc7q10gjp8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ladang moden|wan raihan karim|sabunai media|2013","id":"0dwzhbhbn7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:lagu seorang budak yang dungu|mohd. rosli saludin|goal intelligent pub|2008","id":"de3p5ryk4y","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:lanun pulau hanyut|mirmashah|kompas pub|1991","id":"vaf7r4mewt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:lemang dan dodol|nurul syifa|edumark distributors|2012","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:letusan gunung berapi|azlina awang|sama publications & distributors|2012","id":"7cfqmd5ckr","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:lion dance|soong s. f|mines publications sdn. bhd|2026","id":"tmrqzhqhpm","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:little bird and the heavy rain|nina karina|penerbitan fargoes|2004","id":"25xgxxmqh6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:makhluk dari neraka|nir shahmer|edition plus|2010","id":"nn7pbn5jn1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:malam pengajaran|sam amiro|pustaka printis|2006","id":"y6wzfq8jbj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:malangnya tiada ilmu|pakhoruzi mohammud|pustaka kelisa|2015","id":"ajbdkeb31m","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mana kamu nak lari?|aileen amanda|pena intelek enterprise|2025","id":"qxrcgra008","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mariam juara luncur ais juara luncur ais|norhashimah abd. rahman|galeri ilmu sdn. bhd|2009","id":"nhy4r0jdps","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:marilah pulang!||penerbitan pelangi|2007","id":"rwqdktks6g","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mayat melintas|pakhoruzi mohammud|pustaka minda aktif|2012","id":"m8fr3sz6h5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:meet the bread vendor|akbar ali abdul hai|penerbit sinar cemerlang|2009","id":"ajbdkeb31m","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:melahirkan pengguna bijaksana|noraini mohad dom|osc marketing|2009","id":"nfm5q6v5bs","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:melepasi badai|sailey azizah|semarak murni enterprise|2015","id":"sbb4sk43yw","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:melur|aziz nor|penerbitan pari pari|2013","id":"73trf0sg42","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:memahami lambang kebangsaan penemuan dan penciptaan|muhd iqbal haikal|pustaka printis|2006","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:memburu penyeluk saku|m. saleh mahyat|tulip publications|2009","id":"73trf0sg42","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:memorabilia||tree q communication (m)|2008","id":"khnjrt3ekz","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:memupuk budaya menabung|halimah abdul rahman|osc marketing|2009","id":"nhy4r0jdps","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mencari sinar bahagia pemanasan global|jamilah hj. bujang|pep publications sdn bhd|2011","id":"s7bvj4agm0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mendarat di planet air|wan norsaedah|penerbit pan earth|1990","id":"7cfqmd5ckr","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mendidik anak pintar cerdas bermula dari alam rahim ... bermula dari alam rahim|aminah hasran|darul nu'man|1998","id":"pcr7gp5kz8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:meng visits pangkor island|rahmad d|syarikat makmur enterprais|1995","id":"de3p5ryk4y","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mengapakah saya harus bersaing?|shafinaz shahidun|bright publications|2003","id":"je6w90jpat","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:mengapakah saya harus setia?|shafinaz shahidun|bright publications|2003","id":"k4y996g7f3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:menyemai sikap dan minda positif demi melahirkan modal insan yang cemerlang|mohamed fadzil che din|pni neuron|2010","id":"p1mqy577bc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:menyesal|ghazalie ngah azia|choca enterprise|2001","id":"nn7pbn5jn1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:merancang perbelanjaan keluarga|rohaya zainudin|osc marketing petaling jaya|2009","id":"ed1ct30rey","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:misi jalur gemilang|abisha naim|pustaka prinsip|2005","id":"s19k9dvj9f","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:misi solat 5 waktu episod : diari doa imran|nazry salam|pts publishing house sdn. bhd|2019","id":"y6wzfq8jbj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:misteri menara penunggu ratu balqis|rafidah|penerbitan fargoes|2010","id":"s7p55e5yt7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:misteri sebuah tayar|pakhoruzi mohammud|pustaka minda aktif|2012","id":"5bnfw9dxct","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:misteri sungai baular|ghazali ngah azia|fajar bakti|1996","id":"7dk2pwv2bg","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:most faithful of social animals|akbar ali abdul hai|pustaka buana|2008","id":"j3tthd3gcd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:musim kemarau|zabri hazry|penerbit eka|2016","id":"dac8871a16","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:musuh beriman akhirnya|amer haji matsom|pustaka tintamas|2001","id":"jt1646dvpy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:nabi hud a.s. kaum 'ad ditimpa bala|norul azila arifin|penerbitan addin|2016","id":"5bnfw9dxct","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:nabi sulaiman a.s. ratu balqis ratu balqis|nor azlin japar|penerbitan addin|2015","id":"s7p55e5yt7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:once upon a time... the frog prince|shamsul muzaffar|mind to mind|2024","id":"a9zh30ga0s","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:operasi dinihari|azizan abdul kadir|edusystem|1993","id":"mm7x9cj2mq","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:orang tawanan|jamalludin othman|nisam enterprise|1998","id":"qdgax19e1q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:padah pembuli|abisha naim|pustaka prinsip|2008","id":"qqrvbnjyx7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pahlawan muda|nir shah putra|edition plus|2009","id":"prbz4nv9a1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:password guessers|kumara velu|kota ilmiah|2026","id":"w4cpaswkpa","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:patah tumbuh hilang berganti|s. shahril|pustaka angsana|2003","id":"j3tthd3gcd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pejuang|azilah razali|mostgain resources publications|2005","id":"f8a0aj4wha","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:peluang kedua|hakimi muhammad|cipta pub|2005","id":"6jbfa3wzy1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pembangunan sosial remaja|suziana che wil|caberawet pub|2005","id":"8n3x0d52ec","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pembela rasulullah saw zubair bin awwam r.a|ridzuan adam|nikaz publications|2010","id":"3epkfhkbp6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perang mulut|ain maisarah|blink book sdn bhd|2017","id":"3epkfhkbp6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perang tabuk|hj. johari alias|penerbitan asa sdn. bhd|1994","id":"pnaj5n5cf3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perangai si kembar|amer haji matsom|pustaka tintamas|2008","id":"qrbtewh8ar","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:peristiwa bukit kala|hashim latiff|bright publications sdn bhd|2014","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perkelahan seni|pakhoruzi mohammud|pustaka kelisa|2015","id":"ed1ct30rey","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perkhidmatan dan bimbingan kaunseling di sekolah rendah|ibrahim ahmad|utusan publication & distribution sdn bhd|2002","id":"8n3x0d52ec","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:perpaduan kurangkan jenayah|amer haji matsom|pustaka printis|2005","id":"vhxt66306w","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pertemuan di brisbane pertemuan di brisbane|hasrul syah hassan|nikaz publications|2010","id":"s7bvj4agm0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pintarnya helah penjajah|nurdia azlin|choca enterprise|2000","id":"mm7x9cj2mq","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pocong asrama lawan banduan penjara|ain maisarah|blink book sdn bhd|2017","id":"sbb4sk43yw","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pokok pelbagai guna|shamsiah sabaruddin, surya hafida bahari, zuzitah abd. samad|pustaka bakti wira|1993","id":"qdgax19e1q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pokok pisang|mastura ramli|penerbit setiamas|1993","id":"g43v99hk6n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:prophet muhammad’s guidance for children|abdur rauf|dar al wahi publication|2026","id":"304kqz89gy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:pusaka dibiarkan waris terbeban|hanaffi idris|sezarah nur venture|2026","id":"t58kzraw3d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:putera katak||mind to mind|2023","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:puteri hazima|lisdy rahayu|darul mughni|2017","id":"5dgh50gm9d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:puteri malagan|siti munirah|e1 publication sdn. bhd|2011","id":"jvyjczgvqv","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:rahsia di hulu sungai|pakhoruzi mohammud|pustaka minda aktif|2012","id":"bh0gaynkma","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:rahsia sekeping peta|norislah syafiq|ombak baca trading|2024","id":"kw2wr3zc1w","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:raja sakti pura|tok naga|mostgain resources publications|2005","id":"8hnradd1b0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:raket skuasy nicol?|rosnani majid|sasbadi|2008","id":"rjvkxckvb6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:rama dan sita lotong kasarung|zaen kasturi|edu jaya|2010","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ratapan anak tiri||mind to mind|2024","id":"wqap5ck730","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:resah menunggu|ghazali ngah azia|pustaka mawar|1993","id":"3ph13r1xr2","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:rumah api kanser|hasmadi|cipta publishing|1993","id":"wqap5ck730","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sahabat berdikari|amirul hakim|mostgain resources publications|2006","id":"pz1ayrfm6w","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sahabat sekampung|ghazali ngah azia|pustaka mawar|1993","id":"sbb4sk43yw","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sains|muhammad bin harun|eph publishing (m) sdn. bhd|2026","id":"65e91wzrtm","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sajak perantau|wahba|pustaka permai|2015","id":"s7p55e5yt7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sandiwara si penangkap ikan|nur sofea|anugerah publications|2009","id":"4qea298t9n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sawah ladangnya|m. saleh mahyat|impiana publications|2008","id":"kw2wr3zc1w","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:say ''sorry...''|melissa chin|pustaka nurani|2026","id":"a59v1kq5g8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:science up! pemanasan global|woo-jong kim|penerbitan pelangi sdn. bhd|2019","id":"s7bvj4agm0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:secantik ana|que lyana shuhaimi|ana muslim sdn bhd|2015","id":"pnaj5n5cf3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sejarah dan zaman silam|muhammad bin harun|eddiplex|1995","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sekolah saya||7742|","id":"hm5mzsphts","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sengaja menempa nahas|liasukmaliza|eddiplex|2008","id":"s7p55e5yt7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sengsara membawa kebahagiaan|amirul hakim|mostgain resources publications|2006","id":"5dgh50gm9d","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:senja merah lotong kasarung|arena putera|penerbitan fargoes|1993","id":"fyy3tj6gwh","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:serangan harimau di kuala balah|amer tuan h. matsom|content plus|2013","id":"12anxapj0q","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:serigala dengan sang kerbau|muhammad bin harun|pustaka prinsip|2005","id":"az64d65t55","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sesal kemudian tak berguna|azilah razali|mostgain resources publications|2005","id":"b5c29a6yk7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:setinggi terbang bangau|zainawati mahmood|pustaka serindit|2010","id":"pfv7qx25fj","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sherlock holmes perangkap rumah kosong, jurubina dari norwood & rahsia orang menari = the adventure of the empty house, the adventure of the norwood builder & the adventure of the dancing men|hidayati kasuma abdul hadi|penerbit x|2020","id":"91pzkyz3f0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sisa toksik ; racun perosak|rozita ibrahim|23722|","id":"rphaden47k","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sistem demokrasi berparlimen|rohailiza kasim|pelita jaya enterprise|2010","id":"je6w90jpat","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:snail|normah othman|penerbitan fargoes|2004","id":"1d0a4ap7n5","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:spesies serangga|azlina ahmad|penerbit mikamas|2001","id":"9ctygpn3n2","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:squirrel tricked the monkey|akmar effendi|junior pages publications|2010","id":"j3tthd3gcd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:suara aneh di hutan hijau|norislah syafiq|ombak baca trading|2024","id":"5bnfw9dxct","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:suara misteri dari dusun|norislah syafiq|ombak baca trading|2024","id":"5bnfw9dxct","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:successful young man|alice kee|pustaka cergas jaya|2011","id":"fmz6zwhpsd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:suhaib bin sinan dagangannya dibeli allah|muhammad afif, zainurin lokman|pustaka tintamas|2002","id":"fmz6zwhpsd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:sumpahan sang kelambai sulaiman zakaria|sulaiman zakaria|makmur educational supplies|2014","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:suu phea|abu hassan morad|amn publication enterprise|2007","id":"fmz6zwhpsd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:taat antonimnya ingkar|w. s. uzala|eddiplex|2001","id":"fmz6zwhpsd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:takdir untuk wafi|quelyana shuhaimi|ana muslim sdn bhd|2015","id":"6jbfa3wzy1","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tamu sungai ara|mohd. haiqal omar|edusystem|1993","id":"pcr7gp5kz8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tanggungjawab mulia, tanggungjawab bersama sulaiman zakaria|muhamad ismail ahmad, suziana che wil|caberawet pub|2005","id":"4zcghpnm07","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:telaga di tengah paya|osman ayob|pusat penerbitan universiti, universiti teknologi mara|2010","id":"p1mqy577bc","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tembok tidak tinggi|a. samad ismail|buku fixi sdn bhd|2024","id":"73trf0sg42","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:teori dan teknik kepimpinan panduan aplikasi di tempat kerja|ainon muhammad|pts professional pub|2003","id":"91pzkyz3f0","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:terangnya cahaya|suraya hussin|city megazone|2006","id":"k4y996g7f3","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:terbongkar juga akhirnya|sailey azizah|semarak murni enterprise|2015","id":"mpkpfk9fdd","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:terciptanya plastik|everlyn gan|penerbit sinar cemerlang|2012","id":"7mqjgsfs0y","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:terjebak di perpustakaan|mohd. jaffry mahidin|pustaka bakti wira|1997","id":"vdjkqejq2r","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:terjunam dalam kelam|w. s. uzala|sama publications & distributors|2012","id":"qw0hjzdw8k","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tikus dan singa & lain-lain cerita|nikhila kilambi|edukid publication sdn. bhd|2017","id":"b5c29a6yk7","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tips merawat tekanan mental (stress)|amina hj. noor|al-hidayah publishers|2000","id":"j8rpm4xbhq","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tokoh elektrik|jasiman ahmad|mostgain resources publications|2011","id":"hc7q10gjp8","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tragedi orang lemah|nasir mat ali|penerbitan d e|2020","id":"s19k9dvj9f","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tumpasnya penyamun sihir|zarinah ismail|pustaka permai|2014","id":"qv64mq7yvy","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:tumpasnya sindiket dadah|noorziah|penerbit warisan|2001","id":"nvzdjzksmt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:ubah patah hati jadi prestasi|addien abdul kadir|open bridge publications sdn. bhd|2021","id":"btp4x77s5e","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:umpama tebuan bersarang rendah, jangan sampai terjolokkan|w. s. uzala|eddiplex|2005","id":"nhy4r0jdps","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:uzayr dan keldainya|noor a'ina yusof|scholar's publications|2006","id":"xjckphkjv6","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:yang jauh dan dekat|hilmi rindu|alaf ilmu|2015","id":"nvzdjzksmt","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:zhen’ai heping maliujia huatuan zhuban : riben touxiang 80 zhounian jinianhui tekan|moyi shen|malacca chinese assembly hall|2026","id":"jk9qg2b933","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"fb:zirafah berleher panjang|zulina hassan|galeri ilmu sdn. bhd|2019","id":"4qea298t9n","type":"fallback","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:1740655419","id":"p8me0p7a1m","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9676101753","id":"wp8b40ma4v","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9676104876","id":"jvyjczgvqv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9676105589","id":"ytwac9k1sd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9676113840","id":"8n3x0d52ec","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679004287","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679062333","id":"mm7x9cj2mq","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679062414","id":"pcr7gp5kz8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679200361","id":"nvzdjzksmt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679273202","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679385019","id":"tbqkw87ekv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679386570","id":"m8fr3sz6h5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679485870","id":"b5c29a6yk7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679522016","id":"vaf7r4mewt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679522032","id":"8ba55p8hrc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679522113","id":"f8a0aj4wha","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:967956665X","id":"7cfqmd5ckr","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679570355","id":"nvzdjzksmt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9679643247","id":"pnaj5n5cf3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9780064400558","id":"57yyvq2xx3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9780547928227","id":"yhd98e28n3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9780553380163","id":"etj2gt13ws","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9780747532699","id":"exn3qtsrev","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9781416936473","id":"eg99mxd8gc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9781426220654","id":"tj6czhb46j","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9781741403183","id":"stb6gz4ptx","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9781741693690","id":"jvyjczgvqv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786294804197","id":"tmrqzhqhpm","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786294821583","id":"a9zh30ga0s","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786297633305","id":"rmakv61hhr","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786297676173","id":"w4cpaswkpa","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786299450122","id":"8eaf0xpcvq","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9786299579786","id":"0j2xwsaq6y","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670028422","id":"s3hva6q45d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670063386","id":"qxrcgra008","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670330082","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670363356","id":"s7p55e5yt7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670363783","id":"5bnfw9dxct","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670416205","id":"qve7wzs27g","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670475332","id":"gkq6fd81ww","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670492490","id":"s7p55e5yt7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670492582","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670501574","id":"y6wzfq8jbj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670510637","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670523507","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670523743","id":"az64d65t55","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670594682","id":"mpkpfk9fdd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670594712","id":"sbb4sk43yw","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670619446","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670619484","id":"wqap5ck730","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670650173","id":"dac8871a16","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670729725","id":"304kqz89gy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670776132","id":"nvzdjzksmt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670824055","id":"gkq6fd81ww","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670880563","id":"5dgh50gm9d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670918327","id":"nn7pbn5jn1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670948676","id":"4qea298t9n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789670963082","id":"vdjkqejq2r","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789671144145","id":"jk9qg2b933","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789671487389","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789671572610","id":"t58kzraw3d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672040224","id":"3epkfhkbp6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672040248","id":"sbb4sk43yw","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672040903","id":"jt1646dvpy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672135470","id":"s19k9dvj9f","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672367154","id":"kw2wr3zc1w","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672367178","id":"5bnfw9dxct","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672367185","id":"5bnfw9dxct","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672433910","id":"nvzdjzksmt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672656593","id":"dsg8crcz94","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672865803","id":"wqap5ck730","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672930747","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789672950257","id":"a59v1kq5g8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673012756","id":"5dgh50gm9d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673053902","id":"p1mqy577bc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673073764","id":"b5c29a6yk7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673074426","id":"s7p55e5yt7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673458431","id":"s7bvj4agm0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673510993","id":"p1mqy577bc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673561414","id":"12anxapj0q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673590087","id":"j3tthd3gcd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673643721","id":"qve7wzs27g","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673643769","id":"a9zh30ga0s","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673643813","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673643943","id":"b5c29a6yk7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673643974","id":"g43v99hk6n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673692798","id":"pcr7gp5kz8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673694679","id":"btp4x77s5e","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673694693","id":"91pzkyz3f0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673699735","id":"4xvt72agtc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673760732","id":"mpkpfk9fdd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870233","id":"y6wzfq8jbj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870431","id":"hc7q10gjp8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870455","id":"m8fr3sz6h5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870462","id":"5bnfw9dxct","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870776","id":"s19k9dvj9f","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870806","id":"91pzkyz3f0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870813","id":"5dgh50gm9d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673870837","id":"bh0gaynkma","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673921720","id":"ajbdkeb31m","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673921737","id":"ed1ct30rey","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673921768","id":"btp4x77s5e","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673950362","id":"7cfqmd5ckr","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673950416","id":"qw0hjzdw8k","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789673962242","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674301439","id":"9900pmn1v5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674491079","id":"6jbfa3wzy1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674491277","id":"pnaj5n5cf3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674491871","id":"4a6mpc54h6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674536923","id":"p1mqy577bc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674642020","id":"gkq6fd81ww","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674642075","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674642129","id":"az64d65t55","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674811402","id":"y6wzfq8jbj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789674996079","id":"9ctygpn3n2","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675021626","id":"pfv7qx25fj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675023132","id":"12anxapj0q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675145070","id":"khnjrt3ekz","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675155031","id":"f1tb7p2126","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675155253","id":"mv8mx9zgna","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675155338","id":"ajbdkeb31m","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675262227","id":"prbz4nv9a1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675262883","id":"nn7pbn5jn1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675280108","id":"nhy4r0jdps","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675280146","id":"ed1ct30rey","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675280153","id":"nfm5q6v5bs","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675281389","id":"pnaj5n5cf3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675409844","id":"0dwzhbhbn7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675411137","id":"0x4jm5x9kz","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675416774","id":"7mqjgsfs0y","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675421198","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675434297","id":"hc7q10gjp8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675566769","id":"8n3x0d52ec","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675581465","id":"3epkfhkbp6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675658020","id":"pnaj5n5cf3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675658037","id":"6jbfa3wzy1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675659126","id":"73trf0sg42","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675892004","id":"jvyjczgvqv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789675986215","id":"fmz6zwhpsd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789676535702","id":"7dk2pwv2bg","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789679064636","id":"302bmccfzz","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830096469","id":"s7bvj4agm0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830235219","id":"z2p02t5erm","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830236254","id":"77nw5k1bv5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830460062","id":"pcr7gp5kz8","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830532844","id":"s19k9dvj9f","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830534701","id":"qqrvbnjyx7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830552378","id":"prbz4nv9a1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830556925","id":"je6w90jpat","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830574431","id":"302bmccfzz","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830684482","id":"wqap5ck730","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830685953","id":"qrbtewh8ar","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830687223","id":"khnjrt3ekz","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830687797","id":"stb6gz4ptx","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830688237","id":"bh0gaynkma","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830688329","id":"12anxapj0q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830972183","id":"nhy4r0jdps","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830978628","id":"4qea298t9n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789830992129","id":"j8rpm4xbhq","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831081914","id":"az64d65t55","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831351819","id":"f8a0aj4wha","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831352076","id":"qrbtewh8ar","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831352328","id":"vaf7r4mewt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831434000","id":"qw0hjzdw8k","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831882047","id":"s7bvj4agm0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831882184","id":"3epkfhkbp6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789831921814","id":"91pzkyz3f0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789832400271","id":"k4y996g7f3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789832400356","id":"je6w90jpat","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789832632450","id":"j3tthd3gcd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833036165","id":"8n3x0d52ec","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833036196","id":"4zcghpnm07","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833249138","id":"f8a0aj4wha","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833249466","id":"5dgh50gm9d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833322916","id":"hm5mzsphts","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833479917","id":"xq2qg5kf49","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833515431","id":"xjckphkjv6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833535873","id":"73trf0sg42","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833566815","id":"s3hva6q45d","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833567850","id":"4qea298t9n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833796717","id":"kw2wr3zc1w","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789833989522","id":"09rt5m3wmn","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789835938689","id":"rjvkxckvb6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838270205","id":"qdgax19e1q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838323970","id":"pnaj5n5cf3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838750455","id":"3ph13r1xr2","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838777629","id":"p8me0p7a1m","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838804868","id":"65e91wzrtm","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838806428","id":"nhy4r0jdps","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9789838807937","id":"s7p55e5yt7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9814174637","id":"9ctygpn3n2","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9830026914","id":"rwqdktks6g","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9830212394","id":"j3tthd3gcd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983023438X","id":"rphaden47k","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9830532704","id":"az64d65t55","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9830752143","id":"9ctygpn3n2","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9830780880","id":"nhy4r0jdps","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831081498","id":"mm7x9cj2mq","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831081773","id":"p8me0p7a1m","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831081900","id":"nn7pbn5jn1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831280601","id":"25xgxxmqh6","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831281462","id":"1d0a4ap7n5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831350316","id":"jt1646dvpy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9831350618","id":"fmz6zwhpsd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983225342X","id":"09rt5m3wmn","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9832336422","id":"vaf7r4mewt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9832562384","id":"k4y996g7f3","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9832612586","id":"nvzdjzksmt","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9832943035","id":"fmz6zwhpsd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833249086","id":"8hnradd1b0","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833249205","id":"b5c29a6yk7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833249388","id":"pz1ayrfm6w","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833272304","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833334288","id":"s19k9dvj9f","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833730558","id":"de3p5ryk4y","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9833730752","id":"a1gfprqvqv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838030295","id":"9900pmn1v5","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838030511","id":"g43v99hk6n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983809028X","id":"wqap5ck730","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838090476","id":"3ph13r1xr2","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838093017","id":"6jbfa3wzy1","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838231320","id":"fmz6zwhpsd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838271268","id":"vdjkqejq2r","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983832339X","id":"stb6gz4ptx","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983832342X","id":"vhxt66306w","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983832356X","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838323659","id":"y6wzfq8jbj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838431133","id":"de3p5ryk4y","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838750468","id":"sbb4sk43yw","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838752428","id":"tbqkw87ekv","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983880214X","id":"qv64mq7yvy","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838804320","id":"fmz6zwhpsd","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838806242","id":"gkq6fd81ww","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838910589","id":"y6wzfq8jbj","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9838931519","id":"73trf0sg42","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9839665235","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9839665774","id":"12anxapj0q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9839763296","id":"qdgax19e1q","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983976344X","id":"fyy3tj6gwh","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9839764888","id":"p1mqy577bc","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:983976490X","id":"0dwzhbhbn7","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}
+{"key":"isbn:9839888854","id":"4qea298t9n","type":"isbn","ts":"2026-11-25T03:50:30.231Z"}

@@ -2513,7 +2513,6 @@
 <leader>00000nam a2200000 a 4500</leader>
 <controlfield tag="001">ER00000285</controlfield>
 <datafield tag="020" ind1=" " ind2=" "><subfield code="a">9676101753</subfield></datafield>
-<datafield tag="082" ind1="0" ind2="4"><subfield code="a">F IDH</subfield></datafield>
 <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Idha</subfield></datafield>
 <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Krisis</subfield><subfield code="c">Idha</subfield></datafield>
 <datafield tag="260" ind1=" " ind2=" "><subfield code="b">Utusan Publications &amp; Distributors</subfield><subfield code="c">1990</subfield></datafield>

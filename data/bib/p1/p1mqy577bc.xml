@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 a 4500</marc:leader>
+    <marc:controlfield tag="001">1052</marc:controlfield>
+    <marc:controlfield tag="003">SKTR</marc:controlfield>
+    <marc:controlfield tag="005">20261125035030.0</marc:controlfield>
+    <marc:controlfield tag="008">261125s1998    my            000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9839764888</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(SKTR)1052</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">SKTR-1052</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">SKTR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">FM KUM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">KUMARA Velu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Bakti Si Omar</marc:subfield>
+      <marc:subfield code="b">BURUNG HANTU BERMATA BESAR</marc:subfield>
+      <marc:subfield code="c">KUMARA Velu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Pustaka Rejang</marc:subfield>
+      <marc:subfield code="c">1998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English fiction - Translations into Malay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="h">FM KUM</marc:subfield>
+      <marc:subfield code="p">1052</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">SKTR</marc:subfield>
+      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="o">FM KUM</marc:subfield>
+      <marc:subfield code="p">1052</marc:subfield>
+      <marc:subfield code="y">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">sk-taman-ria</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 a 4500</marc:leader>
+    <marc:controlfield tag="001">1014</marc:controlfield>
+    <marc:controlfield tag="003">SKTR</marc:controlfield>
+    <marc:controlfield tag="005">20261125035030.0</marc:controlfield>
+    <marc:controlfield tag="008">261125s2017    my            000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670918327</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(SKTR)1014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">SKTR-1014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">SKTR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">411 UST</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ustaz Mohd Aziron b. Md Nor, Ustazah Nozira Salleh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">KAMUS ASAS BAILASA al-Basiith</marc:subfield>
+      <marc:subfield code="c">Ustaz Mohd Aziron b. Md Nor, Ustazah Nozira Salleh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Penerbitan Bagus Sdn. Bhd.</marc:subfield>
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Writing systems</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="h">411 UST</marc:subfield>
+      <marc:subfield code="p">1014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">SKTR</marc:subfield>
+      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="o">411 UST</marc:subfield>
+      <marc:subfield code="p">1014</marc:subfield>
+      <marc:subfield code="y">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">sk-taman-ria</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

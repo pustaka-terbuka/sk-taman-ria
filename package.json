@@ -1,7 +1,7 @@
 {
   "name": "pustaka-terbuka-sk-taman-ria",
   "version": "0.1.0",
-  "description": "SK Taman Ria (STR) Bibliographic Dataset and Harvester for Pustaka Terbuka.",
+  "description": "SEKOLAH KEBANGSAAN TAMAN RIA (SKTR) Bibliographic Dataset and Harvester for Pustaka Terbuka.",
   "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.js",
