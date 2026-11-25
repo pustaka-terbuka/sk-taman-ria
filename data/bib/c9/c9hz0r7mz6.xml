@@ -4,7 +4,7 @@
     <marc:leader>00000nam a2200000 a 4500</marc:leader>
     <marc:controlfield tag="001">1085</marc:controlfield>
     <marc:controlfield tag="003">STR</marc:controlfield>
-    <marc:controlfield tag="005">20261125034536.0</marc:controlfield>
+    <marc:controlfield tag="005">20261125041002.0</marc:controlfield>
     <marc:controlfield tag="008">261125s1990    my            000 0 may d</marc:controlfield>
     <marc:datafield tag="020" ind1=" " ind2=" ">
       <marc:subfield code="a">9676101753</marc:subfield>
@@ -17,9 +17,6 @@
     </marc:datafield>
     <marc:datafield tag="040" ind1=" " ind2=" ">
       <marc:subfield code="c">STR</marc:subfield>
-    </marc:datafield>
-    <marc:datafield tag="082" ind1="0" ind2="4">
-      <marc:subfield code="a">F IDH</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="100" ind1="1" ind2=" ">
       <marc:subfield code="a">Idha</marc:subfield>
@@ -37,7 +34,6 @@
     </marc:datafield>
     <marc:datafield tag="852" ind1=" " ind2=" ">
       <marc:subfield code="b">STR</marc:subfield>
-      <marc:subfield code="h">F IDH</marc:subfield>
       <marc:subfield code="p">1085</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="942" ind1=" " ind2=" ">
@@ -47,7 +43,6 @@
     <marc:datafield tag="952" ind1=" " ind2=" ">
       <marc:subfield code="a">STR</marc:subfield>
       <marc:subfield code="b">STR</marc:subfield>
-      <marc:subfield code="o">F IDH</marc:subfield>
       <marc:subfield code="p">1085</marc:subfield>
       <marc:subfield code="y">BK</marc:subfield>
     </marc:datafield>
