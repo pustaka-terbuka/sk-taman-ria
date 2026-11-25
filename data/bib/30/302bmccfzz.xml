@@ -4,7 +4,7 @@
     <marc:leader>00000nam a2200000 a 4500</marc:leader>
     <marc:controlfield tag="001">1043</marc:controlfield>
     <marc:controlfield tag="003">SKTR</marc:controlfield>
-    <marc:controlfield tag="005">20261125035054.0</marc:controlfield>
+    <marc:controlfield tag="005">20261125041444.0</marc:controlfield>
     <marc:controlfield tag="008">261125s2008    my            000 0 may d</marc:controlfield>
     <marc:datafield tag="020" ind1=" " ind2=" ">
       <marc:subfield code="a">9789830574431</marc:subfield>
