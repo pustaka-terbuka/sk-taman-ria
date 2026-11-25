@@ -5,15 +5,15 @@ import fs from 'fs';
 import { SOURCE_CODE, ORG_CODE, parseArgs } from '../tools/harvesters/sk-taman-ria/harvester.js';
 import { validateInbox } from '../tools/validate-inbox.js';
 
-test('SK Taman Ria Harvester constants and argument parsing', () => {
+test('SEKOLAH KEBANGSAAN TAMAN RIA Harvester constants and argument parsing', () => {
   assert.strictEqual(SOURCE_CODE, 'sk-taman-ria');
-  assert.strictEqual(ORG_CODE, 'STR');
+  assert.strictEqual(ORG_CODE, 'SKTR');
   const opts = parseArgs(['--max-records', '10', '--run-id', 'test-01']);
   assert.strictEqual(opts.maxRecords, 10);
   assert.strictEqual(opts.runId, 'test-01');
 });
 
-test('SK Taman Ria inbox passes validation', async () => {
+test('SEKOLAH KEBANGSAAN TAMAN RIA inbox passes validation', async () => {
   const inboxBase = path.resolve('harvest/inbox/sk-taman-ria');
   if (fs.existsSync(inboxBase)) {
     const runs = fs.readdirSync(inboxBase);

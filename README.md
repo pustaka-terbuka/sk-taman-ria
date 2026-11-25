@@ -1,24 +1,24 @@
-# Pustaka Terbuka — SK Taman Ria Data Provider
+# Pustaka Terbuka — SEKOLAH KEBANGSAAN TAMAN RIA Data Provider
 
 > **PustakaTerbuka: an open, shared MARC catalog for Malaysian schools and libraries.**  
-> *Official SK Taman Ria (STR) Bibliographic Dataset and Harvester.*
+> *Official SEKOLAH KEBANGSAAN TAMAN RIA (SKTR) Bibliographic Dataset and Harvester.*
 
-This repository contains the MARCXML bibliographic catalog synchronized from **SK Taman Ria** via **ErrinILS** for consumption by the Pustaka Terbuka Union Catalog ([`pustaka-terbuka/opac`](https://github.com/pustaka-terbuka/opac)).
+This repository contains the MARCXML bibliographic catalog synchronized from **SEKOLAH KEBANGSAAN TAMAN RIA** via **ErrinILS** for consumption by the Pustaka Terbuka Union Catalog ([`pustaka-terbuka/opac`](https://github.com/pustaka-terbuka/opac)).
 
 ---
 
 ## Catalog Overview
 
 - **Source Code:** `sk-taman-ria`
-- **Organization Code:** `STR`
-- **Institution:** SK Taman Ria
+- **Organization Code:** `SKTR`
+- **Institution:** SEKOLAH KEBANGSAAN TAMAN RIA
 - **Source Priority:** 10
 - **ILS Platform:** ErrinILS (School Integrated Library System)
 - **Classification:** Dewey Decimal Classification (DDC)
 - **Catalog Size:** 17 records
 - **Repository:** `pustaka-terbuka/sk-taman-ria`
 - **Reference Sibling:** `sk-taman-ria`
-- **Last Synced:** 2026-11-25 02:28:07 UTC
+- **Last Synced:** 2026-11-25 03:22:28 UTC
 
 ---
 
@@ -30,7 +30,7 @@ This repository follows the official Pustaka Terbuka Data Provider standard (as 
 - `data/orgs.json` — Organization metadata, state, classification scheme, and contact.
 - `data/aliases.jsonl` — Canonical alias mapping table (ISBN, 035, and fallback keys to permanent Crockford Base32 IDs).
 - `data/bib/<shard>/<id>.xml` — Partitioned single-record MARCXML files for downstream OPAC indexing.
-- `data/holdings/STR.csv` — Normalized institutional holdings table.
+- `data/holdings/SKTR.csv` — Normalized institutional holdings table.
 - `harvest/inbox/sk-taman-ria/<run-id>/` — Intake batches with `manifest.json`, `partition_state.json`, `provenance.jsonl`, and `records/batch_0.xml`.
 - `tools/` — Self-contained validation, merging, and alias resolution scripts.
 - `package.json` — NPM toolchain scripts (`test`, `validate-inbox`, `merge`).
