@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 a 4500</marc:leader>
+    <marc:controlfield tag="001">1023</marc:controlfield>
+    <marc:controlfield tag="003">STR</marc:controlfield>
+    <marc:controlfield tag="005">20261125034536.0</marc:controlfield>
+    <marc:controlfield tag="008">261125s2012    my            000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789830688237</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(STR)1023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">STR-1023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">STR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">372.2 GRI(R)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Alex Griffiths</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">101 senarai penting menguruskan tingkah laku di sekolah rendah</marc:subfield>
+      <marc:subfield code="b">101 Essential Lists on Managing Behaviour in the Primary School</marc:subfield>
+      <marc:subfield code="c">Alex Griffiths</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Institut Terjemahan &amp; Buku Malaysia Berhad</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Classroom management--Education (Primay); Education, Primary; Behavior modification--Education (Primary)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">STR</marc:subfield>
+      <marc:subfield code="h">372.2 GRI(R)</marc:subfield>
+      <marc:subfield code="p">1023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">STR</marc:subfield>
+      <marc:subfield code="b">STR</marc:subfield>
+      <marc:subfield code="o">372.2 GRI(R)</marc:subfield>
+      <marc:subfield code="p">1023</marc:subfield>
+      <marc:subfield code="y">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">sk-taman-ria</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

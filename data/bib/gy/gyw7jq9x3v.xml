@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00000nam a2200000 a 4500</marc:leader>
+    <marc:controlfield tag="001">1066</marc:controlfield>
+    <marc:controlfield tag="003">STR</marc:controlfield>
+    <marc:controlfield tag="005">20261125034536.0</marc:controlfield>
+    <marc:controlfield tag="008">261125s2010    my            000 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789830685953</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(STR)1066</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">STR-1066</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">STR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">534 CLA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Claire Llewellyn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Bunyi dan pendengaran</marc:subfield>
+      <marc:subfield code="c">Claire Llewellyn</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="b">Institut Terjemahan Negara Malaysia</marc:subfield>
+      <marc:subfield code="c">2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Sound--Juvenile literature; Hearing--Juvenile literature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">STR</marc:subfield>
+      <marc:subfield code="h">534 CLA</marc:subfield>
+      <marc:subfield code="p">1066</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="a">STR</marc:subfield>
+      <marc:subfield code="b">STR</marc:subfield>
+      <marc:subfield code="o">534 CLA</marc:subfield>
+      <marc:subfield code="p">1066</marc:subfield>
+      <marc:subfield code="y">BK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">sk-taman-ria</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
