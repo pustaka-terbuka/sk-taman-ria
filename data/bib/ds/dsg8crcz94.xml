@@ -3,20 +3,20 @@
   <marc:record>
     <marc:leader>00000nam a2200000 a 4500</marc:leader>
     <marc:controlfield tag="001">B1010</marc:controlfield>
-    <marc:controlfield tag="003">SKTR</marc:controlfield>
-    <marc:controlfield tag="005">20261125041444.0</marc:controlfield>
+    <marc:controlfield tag="003">STR</marc:controlfield>
+    <marc:controlfield tag="005">20261125051703.0</marc:controlfield>
     <marc:controlfield tag="008">261125s2026    my            000 0 may d</marc:controlfield>
     <marc:datafield tag="020" ind1=" " ind2=" ">
       <marc:subfield code="a">9789672656593</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="035" ind1=" " ind2=" ">
-      <marc:subfield code="a">(SKTR)B1010</marc:subfield>
+      <marc:subfield code="a">(STR)B1010</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="035" ind1=" " ind2=" ">
-      <marc:subfield code="a">SKTR-B1010</marc:subfield>
+      <marc:subfield code="a">STR-B1010</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="040" ind1=" " ind2=" ">
-      <marc:subfield code="c">SKTR</marc:subfield>
+      <marc:subfield code="c">STR</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="082" ind1="0" ind2="4">
       <marc:subfield code="a">294.3 SHI</marc:subfield>
@@ -37,7 +37,7 @@
       <marc:subfield code="a">Buddhism-- Doctrines; Spiritual life-- Buddhism</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="852" ind1=" " ind2=" ">
-      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="b">STR</marc:subfield>
       <marc:subfield code="h">294.3 SHI</marc:subfield>
       <marc:subfield code="p">B1010</marc:subfield>
     </marc:datafield>
@@ -46,8 +46,8 @@
       <marc:subfield code="c">BK</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="952" ind1=" " ind2=" ">
-      <marc:subfield code="a">SKTR</marc:subfield>
-      <marc:subfield code="b">SKTR</marc:subfield>
+      <marc:subfield code="a">STR</marc:subfield>
+      <marc:subfield code="b">STR</marc:subfield>
       <marc:subfield code="o">294.3 SHI</marc:subfield>
       <marc:subfield code="p">B1010</marc:subfield>
       <marc:subfield code="y">BK</marc:subfield>
