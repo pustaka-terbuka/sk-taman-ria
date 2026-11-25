@@ -4,7 +4,7 @@
     <marc:leader>00000nam a2200000 a 4500</marc:leader>
     <marc:controlfield tag="001">B1007</marc:controlfield>
     <marc:controlfield tag="003">STR</marc:controlfield>
-    <marc:controlfield tag="005">20261125012728.0</marc:controlfield>
+    <marc:controlfield tag="005">20261125022614.0</marc:controlfield>
     <marc:controlfield tag="008">261125s2026    my            000 0 may d</marc:controlfield>
     <marc:datafield tag="020" ind1=" " ind2=" ">
       <marc:subfield code="a">9786299579786</marc:subfield>
@@ -33,6 +33,9 @@
       <marc:subfield code="a">Sintok, Kedah</marc:subfield>
       <marc:subfield code="b">Institut Penyelidikan dan Inovasi Zakat, Univeristi Utara Malaysia</marc:subfield>
       <marc:subfield code="c">2026</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">84 p.</marc:subfield>
     </marc:datafield>
     <marc:datafield tag="650" ind1=" " ind2="0">
       <marc:subfield code="a">Islamic ethics; Muslim converts; Muslims--Conduct of life</marc:subfield>

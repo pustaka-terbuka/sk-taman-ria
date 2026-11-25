@@ -94,6 +94,7 @@
 <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd. Nizho Abdul Rahman</subfield></datafield>
 <datafield tag="245" ind1="1" ind2="0"><subfield code="a">2026 PANDUAN ASAS MUALLAF</subfield><subfield code="b">Modul Akhlak dan Adab</subfield><subfield code="c">Mohd. Nizho Abdul Rahman</subfield></datafield>
 <datafield tag="260" ind1=" " ind2=" "><subfield code="a">Sintok, Kedah</subfield><subfield code="b">Institut Penyelidikan dan Inovasi Zakat, Univeristi Utara Malaysia</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="300" ind1=" " ind2=" "><subfield code="a">84 p.</subfield></datafield>
 <datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000002</subfield></datafield>
 <datafield tag="650" ind1=" " ind2="0"><subfield code="a">Islamic ethics; Muslim converts; Muslims--Conduct of life</subfield></datafield>
 <datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1007</subfield></datafield>
@@ -106,6 +107,7 @@
 <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Moyi Shen</subfield></datafield>
 <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Zhen’ai heping</subfield><subfield code="b">maliujia huatuan zhuban : Riben Touxiang 80 Zhounian Jinianhui Tekan</subfield><subfield code="c">Moyi Shen</subfield></datafield>
 <datafield tag="260" ind1=" " ind2=" "><subfield code="a">Kuala Lumpur</subfield><subfield code="b">Malacca Chinese Assembly Hall</subfield><subfield code="c">2026</subfield></datafield>
+<datafield tag="300" ind1=" " ind2=" "><subfield code="a">102 p.</subfield></datafield>
 <datafield tag="541" ind1=" " ind2=" "><subfield code="e">ACQ-000003</subfield></datafield>
 <datafield tag="650" ind1=" " ind2="0"><subfield code="a">Peace-- China;  Community life; Malacca (Malaysia)-- Social life and customs</subfield></datafield>
 <datafield tag="852" ind1=" " ind2=" "><subfield code="p">B1008</subfield></datafield>

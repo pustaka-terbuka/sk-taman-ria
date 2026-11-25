@@ -18,7 +18,7 @@
     "weed_reason": ""
   },
   {
-    "id": "91d01a4b283e47f6",
+    "id": "77d14180677b4aa9",
     "ctl": "ER00000001",
     "acq": "",
     "barcode": "B1001",
@@ -36,7 +36,7 @@
     "weed_reason": ""
   },
   {
-    "id": "a36b969f8c5142ec",
+    "id": "ddbe0920300b4d37",
     "ctl": "ER00000002",
     "acq": "",
     "barcode": "B1002",
@@ -54,7 +54,7 @@
     "weed_reason": ""
   },
   {
-    "id": "3ff5313405744d69",
+    "id": "932243d0c8f0444c",
     "ctl": "ER00000003",
     "acq": "",
     "barcode": "B1003",
@@ -72,7 +72,7 @@
     "weed_reason": ""
   },
   {
-    "id": "01fc85aa579d4f21",
+    "id": "109b4b9e06714eee",
     "ctl": "ER00000004",
     "acq": "",
     "barcode": "B1004",
@@ -90,7 +90,7 @@
     "weed_reason": ""
   },
   {
-    "id": "78e045313d904d71",
+    "id": "44a79c3193ff4988",
     "ctl": "ER00000005",
     "acq": "",
     "barcode": "B1005",
@@ -108,7 +108,7 @@
     "weed_reason": ""
   },
   {
-    "id": "388e71d903a34804",
+    "id": "2394c4dee6b74a10",
     "ctl": "ER00000006",
     "acq": "ACQ-000001",
     "barcode": "B1006",
@@ -122,11 +122,11 @@
     "pages": "160",
     "subject": "Malay fiction; Malaysian fiction (Malay)",
     "call": "899.2333 EJA",
-    "weeded": "",
-    "weed_reason": ""
+    "weeded": "2026-11-25",
+    "weed_reason": "Damaged / worn out (condition beyond repair)"
   },
   {
-    "id": "730e5141ab394521",
+    "id": "5b3fde69bc944b6c",
     "ctl": "ER00000007",
     "acq": "ACQ-000002",
     "barcode": "B1007",
@@ -137,14 +137,14 @@
     "publisher": "Institut Penyelidikan dan Inovasi Zakat, Univeristi Utara Malaysia",
     "place": "Sintok, Kedah",
     "year": "2026",
-    "pages": "",
+    "pages": "84",
     "subject": "Islamic ethics; Muslim converts; Muslims--Conduct of life",
     "call": "297.5 RAH",
     "weeded": "",
     "weed_reason": ""
   },
   {
-    "id": "ea502f9a4ce14ebd",
+    "id": "5fecd3f152434522",
     "ctl": "ER00000008",
     "acq": "ACQ-000003",
     "barcode": "B1008",
@@ -155,7 +155,7 @@
     "publisher": "Malacca Chinese Assembly Hall",
     "place": "Kuala Lumpur",
     "year": "2026",
-    "pages": "",
+    "pages": "102",
     "subject": " Peace-- China;  Community life; Malacca (Malaysia)-- Social life and customs",
     "call": "327.172 SHE",
     "weeded": "",
