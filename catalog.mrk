@@ -28,7 +28,8 @@
 =082  04$a499.2386 MUZ
 =100  1\$aShamsul Muzaffar
 =245  10$aSang Kancil, Kerbau dan Buaya$cShamsul Muzaffar
-=260  \\$bEdukid Publication Sdn. Bhd$c2017
+=260  \\$aAmpang, Selangor$bEdukid Publication Sdn. Bhd$c2017
+=300  \\$a2 p.
 =541  \\$eACQ-000014
 =650  \0$aMalay language--Readers--Fiction; Children's stories, Malay
 =852  \\$p1003
@@ -39,7 +40,8 @@
 =082  04$a398.2 ONC
 =100  1\$aShamsul Muzaffar
 =245  10$aONCE UPON A TIME...$bThe Frog Prince$cShamsul Muzaffar
-=260  \\$bMind to mind$c2024
+=260  \\$aBentong, Pahang$bMind to mind$c2024
+=300  \\$a213 p.
 =541  \\$eACQ-000016
 =650  \0$aFairy tales; Children's stories, English
 =852  \\$p1003
@@ -68,28 +70,6 @@
 =852  \\$p1005
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000024
-=020  \\$a967-906-241-4
-=082  04$a899.2333 OMA
-=100  1\$aMohd. Haiqal Omar
-=245  10$aTamu Sungai Ara$cMohd. Haiqal Omar
-=260  \\$bEdusystem$c1993
-=541  \\$eACQ-000018
-=650  \0$aMalay fiction
-=852  \\$p1006
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000028
-=020  \\$a9789673692798
-=082  04$a808.02 MAT
-=100  1\$aMatluthfi
-=245  10$aCatatan Matluthfi$cMatluthfi
-=260  \\$bOpen Bridge Publications$c2015
-=541  \\$eACQ-000022
-=650  \0$aAuthorship
-=852  \\$p1006
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000032
 =020  \\$a9789830460062
 =082  04$a153.98 HAS
@@ -99,17 +79,6 @@
 =541  \\$eACQ-000026
 =650  \0$aGifted children; Genius; Creative ability
 =852  \\$p1006
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000026
-=020  \\$a9838431133
-=082  04$aRAH
-=100  1\$aRahmad D
-=245  10$aMeng visits Pangkor Island$cRahmad D
-=260  \\$bSyarikat Makmur Enterprais$c1995
-=541  \\$eACQ-000020
-=650  \0$aReaders; English fiction
-=852  \\$p1007
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000030
@@ -134,17 +103,6 @@
 =852  \\$p1008
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000033
-=020  \\$a9831350316
-=082  04$a297.7 AM
-=100  1\$aAmer Haji Matsom
-=245  10$aMusuh beriman akhirnya$cAmer Haji Matsom
-=260  \\$bPustaka Tintamas$c2001
-=541  \\$eACQ-000027
-=650  \0$aIslamic stories, Malay
-=852  \\$p1009
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000034
 =020  \\$a9-789672-040903
 =082  04$a297.577 SYA
@@ -156,28 +114,6 @@
 =852  \\$p1009
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000036
-=020  \\$a9789670594712
-=082  04$a899.2333 AZI
-=100  1\$aSailey Azizah
-=245  10$aMelepasi Badai$cSailey Azizah
-=260  \\$bSEMARAK MURNI ENTERPRISE$c2015
-=541  \\$eACQ-000030
-=650  \0$aDidactic fiction, Malay; Malay fiction
-=852  \\$p1010
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000037
-=020  \\$a9838750468
-=082  04$aJF Sah
-=100  1\$aGhazali Ngah Azia
-=245  10$aSahabat sekampung$cGhazali Ngah Azia
-=260  \\$bPustaka Mawar$c1993
-=541  \\$eACQ-000031
-=650  \0$aMalay language--Readers--Fiction
-=852  \\$p1010
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000038
 =020  \\$a9789672040248
 =082  04$a899.2333 MAI
@@ -187,28 +123,6 @@
 =541  \\$eACQ-000032
 =650  \0$aMalaysian fiction (Malay); Young adult fiction, Malay; Malay fiction
 =852  \\$p1010
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000039
-=020  \\$a9838093017
-=082  04$aFM HAK
-=100  1\$aHakimi Muhammad
-=245  10$aPeluang kedua$cHakimi Muhammad
-=260  \\$bCipta Pub$c2005
-=541  \\$eACQ-000033
-=650  \0$aMalay language--Readers--Fiction
-=852  \\$p1011
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000040
-=020  \\$a9789674491079
-=082  04$a899.2333 SHU
-=100  1\$aQuelyana Shuhaimi
-=245  10$aTAKDIR UNTUK WAFI$cQuelyana Shuhaimi
-=260  \\$bAna Muslim Sdn Bhd$c2015
-=541  \\$eACQ-000034
-=650  \0$aMalay fiction; Children's stories, Malay
-=852  \\$p1011
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000043
@@ -242,28 +156,6 @@
 =852  \\$p1013
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000045
-=020  \\$a9831081900
-=082  04$aFM GHA
-=100  1\$aGhazalie Ngah Azia
-=245  10$aMenyesal$cGhazalie Ngah Azia
-=260  \\$bChoca Enterprise$c2001
-=541  \\$eACQ-000039
-=650  \0$aMalay language--Readers
-=852  \\$p1014
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000048
-=020  \\$a978-967-5262-88-3
-=082  04$a499.2386 SHA
-=100  1\$aNir Shahmer
-=245  10$aMakhluk dari neraka$cNir Shahmer
-=260  \\$bEdition Plus$c2010
-=541  \\$eACQ-000042
-=650  \0$aMalay language--Readers--Juvenile fiction
-=852  \\$p1014
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000051
 =020  \\$a9789670918327
 =082  04$a411 UST
@@ -273,17 +165,6 @@
 =541  \\$eACQ-000045
 =650  \0$aWriting systems
 =852  \\$p1014
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000046
-=020  \\$a9789673921720
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aMalangnya Tiada Ilmu$cPakhoruzi Mohammud
-=260  \\$bPUSTAKA KELISA$c2015
-=541  \\$eACQ-000040
-=650  \0$aMalaysian fiction (Malay); Malay fiction
-=852  \\$p1015
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000052
@@ -307,39 +188,6 @@
 =852  \\$p1016
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000054
-=020  \\$a9679485870
-=082  04$a808.882 HAS
-=100  1\$aHassan
-=245  10$a5000 alam mutiara kata$bJilid 3$cHassan
-=260  \\$bAssociated Educational$c2000
-=541  \\$eACQ-000048
-=650  \0$aQuatations, malay; Quatations
-=852  \\$p1017
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000056
-=020  \\$a9789673643943
-=082  04$a499.2386 KIL
-=100  1\$aNikhila Kilambi
-=245  10$aTikus dan Singa & LAIN-LAIN CERITA$cNikhila Kilambi
-=260  \\$bEdukid Publication Sdn. Bhd$c2017
-=541  \\$eACQ-000050
-=650  \0$aAnimals--Fiction; Children's stories, Malay; Malay language--Readers--Animals
-=852  \\$p1017
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000058
-=020  \\$a9833249205
-=082  04$a899 AZI
-=100  1\$aAzilah Razali
-=245  10$aSesal Kemudian Tak Berguna$cAzilah Razali
-=260  \\$bMostgain Resources Publications$c2005
-=541  \\$eACQ-000052
-=650  \0$aShort stories, Malay; Malay fiction
-=852  \\$p1017
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000060
 =020  \\$a978-967-307-376-4
 =082  04$a899.2333 SUR
@@ -349,16 +197,6 @@
 =541  \\$eACQ-000054
 =650  \0$aMalay fiction
 =852  \\$p1017
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000055
-=020  \\$a9789675145070
-=082  04$a371.1023 MEM
-=245  00$aMemorabilia
-=260  \\$bTree Q Communication (M)$c2008
-=541  \\$eACQ-000049
-=650  \0$aTeachers--Anecdotes
-=852  \\$p1018
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000059
@@ -372,28 +210,6 @@
 =852  \\$p1018
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000062
-=020  \\$a983832339X
-=082  04$a899.2333 MAT
-=100  1\$aAmer Haji Matsom
-=245  10$aKempen hari perpaduan$cAmer Haji Matsom
-=260  \\$bPustaka Printis$c2005
-=541  \\$eACQ-000056
-=650  \0$aMalay fiction
-=852  \\$p1019
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000070
-=020  \\$a9789830687797
-=082  04$a371.3 HAF(R)
-=100  1\$aGeorge Cole
-=245  10$a101 senarai penting untuk penggunaan ICT di bilik darjah$b: 101 Essential Lists for Using ICT in the Classroom$cGeorge Cole
-=260  \\$bInstitut Terjemahan & Buku Malaysia Berhad$c2012
-=541  \\$eACQ-000064
-=650  \0$aEducational technology; Education--Data processing; Computer-assisted instruction
-=852  \\$p1019
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000118
 =020  \\$aISBN 978-1-7414-0318-3
 =082  04$a420
@@ -403,39 +219,6 @@
 =541  \\$eACQ-000112
 =650  \0$aEnglish & old english
 =852  \\$p1019
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000064
-=020  \\$a9789672367178
-=082  04$a899.2333 SYA
-=100  1\$aNorislah Syafiq
-=245  10$aSUARA MISTERI DARI DUSUN$cNorislah Syafiq
-=260  \\$bOmbak Baca Trading$c2024
-=541  \\$eACQ-000058
-=650  \0$aChildren's stories, Malay; Detective and mystery stories; Malay fiction
-=852  \\$p1020
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000069
-=020  \\$a978-967-387-046-2
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aMisteri sebuah tayar$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000063
-=650  \0$aYouth--Fiction; Malay fiction
-=852  \\$p1020
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000073
-=020  \\$a9789672367185
-=082  04$a899.2333 SYA
-=100  1\$aNorislah Syafiq
-=245  10$aSUARA ANEH di HUTAN HIJAU$cNorislah Syafiq
-=260  \\$bOmbak Baca Trading$c2024
-=541  \\$eACQ-000067
-=650  \0$aChildren's stories, Malay; Detective and mystery stories; Malay fiction
-=852  \\$p1020
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000091
@@ -449,17 +232,6 @@
 =852  \\$p1020
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000068
-=020  \\$a9789670963082
-=082  04$a823 FOO
-=100  1\$aJackie Foo
-=245  10$aThe Jawi Writing Competition$cJackie Foo
-=260  \\$bMalidi Publication$c2016
-=541  \\$eACQ-000062
-=650  \0$aChildren's stories, English
-=852  \\$p1021
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000098
 =020  \\$a9838271268
 =082  04$a899.2333 MAH
@@ -471,17 +243,6 @@
 =852  \\$p1021
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000071
-=020  \\$a9789673950362
-=082  04$a551.21 AWA
-=100  1\$aAzlina Awang
-=245  10$aLetusan gunung berapi$cAzlina Awang
-=260  \\$bSama Publications & Distributors$c2012
-=541  \\$eACQ-000065
-=650  \0$aVolcanoes--Juvenile literature
-=852  \\$p1022
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000085
 =020  \\$a967-956-665-X
 =082  04$aJF Wan
@@ -491,17 +252,6 @@
 =541  \\$eACQ-000079
 =650  \0$aBahasa Malaysia--Readers--Fiction
 =852  \\$p1022
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000074
-=020  \\$a9789673870837
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aRahsia di hulu sungai$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000068
-=650  \0$aDidactic fiction, Malay; Detective and mystery stories, Malay
-=852  \\$p1023
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000099
@@ -526,17 +276,6 @@
 =852  \\$p1024
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000100
-=020  \\$a9789672367154
-=082  04$a899.2333 NOR
-=100  1\$aNorislah Syafiq
-=245  10$aRAHSIA SEKEPING PETA$cNorislah Syafiq
-=260  \\$bOmbak Baca Trading$c2024
-=541  \\$eACQ-000094
-=650  \0$aChildren's stories, Malay; Detective and mystery stories; Malay fiction
-=852  \\$p1025
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000101
 =020  \\$a9789833796717
 =082  04$a899.2333 MAH
@@ -548,39 +287,6 @@
 =852  \\$p1025
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000104
-=020  \\$a978-967-5023-13-2
-=082  04$a899.2333 AZI
-=100  1\$aGhazali Ngah Azia
-=245  10$aDalam Hujan Lebat$cGhazali Ngah Azia
-=260  \\$bImpiana Publications & Distributors Sdn. Bhd$c2014
-=541  \\$eACQ-000098
-=650  \0$aMalay fiction; Children's stories, Malay
-=852  \\$p1026
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000110
-=020  \\$a9789673561414
-=082  04$a899.2333 MAT
-=100  1\$aAmer Tuan H. Matsom
-=245  10$aSerangan harimau di Kuala Balah$cAmer Tuan H. Matsom
-=260  \\$bContent Plus$c2013
-=541  \\$eACQ-000104
-=650  \0$aDidactic fiction, Malay; Malay fiction
-=852  \\$p1026
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000111
-=020  \\$a9789830688329
-=082  04$a371.9 GRI
-=100  1\$aKate Griffiths
-=245  10$a101 senarai penting bagi penyelaras keperluan pendidikan khas$b101 Essential Lists for Sencos$cKate Griffiths
-=260  \\$bInstitut Terjemahan Negara Malaysia Berhad$c2011
-=541  \\$eACQ-000105
-=650  \0$aSpecial education
-=852  \\$p1026
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000125
 =020  \\$a9839665774
 =082  04$a398.2 BAH
@@ -590,39 +296,6 @@
 =541  \\$eACQ-000119
 =650  \0$aFolklore, Arabic
 =852  \\$p1026
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000112
-=020  \\$a978-983-880-793-7
-=082  04$a899.2333 LIA
-=100  1\$aLiasukmaliza
-=245  10$aSengaja menempa nahas$cLiasukmaliza
-=260  \\$bEddiplex$c2008
-=541  \\$eACQ-000106
-=650  \0$aMalay fiction
-=852  \\$p1027
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000116
-=020  \\$a9789670363356
-=082  04$a297 NOR
-=100  1\$aNor Azlin Japar
-=245  10$aNABI SULAIMAN a.s. RATU BALQIS$bRatu Balqis$cNor Azlin Japar
-=260  \\$bPenerbitan Addin$c2015
-=541  \\$eACQ-000110
-=650  \0$aProphets, Pre-Islamic--Juvenile literature; Islamic stories, Malay
-=852  \\$p1027
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000117
-=020  \\$a9789670492490
-=082  04$a899.231 WAH
-=100  1\$aWahba
-=245  10$aSajak Perantau$cWahba
-=260  \\$bPustaka Permai$c2015
-=541  \\$eACQ-000111
-=650  \0$aMalay poetry; Sajak
-=852  \\$p1027
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000120
@@ -647,28 +320,6 @@
 =852  \\$p1028
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000119
-=020  \\$a978-967-387-080-6
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aAir sungai Jali$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000113
-=650  \0$aDidactic fiction, Malay; Detective and mystery stories, Malay
-=852  \\$p1029
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000121
-=020  \\$a9789831921814
-=082  04$a658.4092 AIN
-=100  1\$aAinon Muhammad
-=245  10$aTeori dan teknik kepimpinan$bpanduan aplikasi di tempat kerja$cAinon Muhammad
-=260  \\$bPTS Professional Pub$c2003
-=541  \\$eACQ-000115
-=650  \0$aLeadership--Philosophy; Work environment
-=852  \\$p1029
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000124
 =020  \\$a9789673694693
 =082  04$a823 HID
@@ -678,17 +329,6 @@
 =541  \\$eACQ-000118
 =650  \0$aDetective and mystery stories, English--Translations into Malay; English fiction--Translations into Malay
 =852  \\$p1029
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000122
-=020  \\$a9789833989522
-=082  04$a666.1 HAI
-=100  1\$aAkbar Ali Abdul Hai
-=245  10$aGlass$bthe most useful in modern life$cAkbar Ali Abdul Hai
-=260  \\$bPustaka Segar$c2008
-=541  \\$eACQ-000116
-=650  \0$aGlass--History--Juvenile literature
-=852  \\$p1030
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000123
@@ -702,28 +342,6 @@
 =852  \\$p1030
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000126
-=020  \\$a9789833036165
-=082  04$a305.235 WIL
-=100  1\$aSuziana Che Wil
-=245  10$aPembangunan sosial remaja$cSuziana Che Wil
-=260  \\$bCaberawet Pub$c2005
-=541  \\$eACQ-000120
-=650  \0$aYouth--Conduct of life; Youth development
-=852  \\$p1031
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000131
-=020  \\$a978-967-5566-76-9
-=082  04$a899.2333 HAS
-=100  1\$aAbd. Ghani Che Hassan
-=245  10$aKawan... kita semua sama$cAbd. Ghani Che Hassan
-=260  \\$bNur-Ilmu$c2013
-=541  \\$eACQ-000125
-=650  \0$aMalay fiction; Young adult fiction, Malay
-=852  \\$p1031
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000139
 =020  \\$aISBN 967-61-1384-0
 =082  04$a150
@@ -733,16 +351,6 @@
 =541  \\$eACQ-000133
 =650  \0$aPsychology
 =852  \\$p1031
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000132
-=020  \\$a9789832400271
-=100  1\$aShafinaz Shahidun
-=245  10$aMengapakah saya harus setia?$cShafinaz Shahidun
-=260  \\$bBright Publications$c2003
-=541  \\$eACQ-000126
-=650  \0$aSelf-actualization (Psychology); Personality development
-=852  \\$p1032
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000134
@@ -756,28 +364,6 @@
 =852  \\$p1032
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000135
-=020  \\$a9676104876
-=082  04$a371.2 HUS
-=100  1\$aKamaruddin Hj. Husin
-=245  10$aDinamika sekolah dan bilik darjah$cKamaruddin Hj. Husin
-=260  \\$bUtusan Publications & Distributors$c1994
-=541  \\$eACQ-000129
-=650  \0$aSchool management and organization
-=852  \\$p1033
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000138
-=020  \\$a9-789675-892004
-=082  04$a398.209595 MUN
-=100  1\$aSiti Munirah
-=245  10$aPuteri Malagan$cSiti Munirah
-=260  \\$bE1 PUBLICATION SDN. BHD$c2011
-=541  \\$eACQ-000132
-=650  \0$aFolk literature, Malay; Folklore--Malaysia
-=852  \\$p1033
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000149
 =020  \\$a9781741693690
 =082  04$a899 JIL
@@ -787,39 +373,6 @@
 =541  \\$eACQ-000143
 =650  \0$aOther Literature - Picture Books
 =852  \\$p1033
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000140
-=020  \\$a9789833249466
-=082  04$a899.2333 HAK
-=100  1\$aAmirul Hakim
-=245  10$aSengsara membawa kebahagiaan$cAmirul Hakim
-=260  \\$bMostgain Resources Publications$c2006
-=541  \\$eACQ-000134
-=650  \0$aDidaction fiction, Malay; Malay fiction
-=852  \\$p1034
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000141
-=020  \\$a9789673012756
-=082  04$a823 CHA
-=100  1\$aMyan Chan
-=245  10$aCo-operation$cMyan Chan
-=260  \\$bGemilang Pub. Sdn Bhd$c2009
-=541  \\$eACQ-000135
-=650  \0$aChildren's stories, English
-=852  \\$p1034
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000142
-=020  \\$a9789670880563
-=082  04$a899 LIS
-=100  1\$aLisdy Rahayu
-=245  10$aPuteri Hazima$cLisdy Rahayu
-=260  \\$bDarul Mughni$c2017
-=541  \\$eACQ-000136
-=650  \0$aChildren's stories, Malay; Malay language--Phonetics
-=852  \\$p1034
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000143
@@ -833,39 +386,6 @@
 =852  \\$p1034
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000144
-=020  \\$a9789673921768
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aBiografi Ayah$cPakhoruzi Mohammud
-=260  \\$bPUSTAKA KELISA$c2015
-=541  \\$eACQ-000138
-=650  \0$aMalaysian fiction (Malay); Malay fiction
-=852  \\$p1035
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000150
-=020  \\$a9789673694679
-=082  04$a158.1 KAD
-=100  1\$aAddien Abdul Kadir
-=245  10$aUbah Patah Hati Jadi Prestasi$cAddien Abdul Kadir
-=260  \\$bOpen Bridge Publications Sdn. Bhd$c2021
-=541  \\$eACQ-000144
-=650  \0$aMotivation (Psychology); Frustration; Self-actualization (Psychology)
-=852  \\$p1035
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000152
-=020  \\$a9789673694679
-=082  04$a158.1 KAD
-=100  1\$aAddien Abdul Kadir
-=245  10$aUbah Patah Hati Jadi Prestasi$cAddien Abdul Kadir
-=260  \\$bOpen Bridge Publications Sdn. Bhd$c2021
-=541  \\$eACQ-000146
-=650  \0$aMotivation (Psychology); Frustration; Self-actualization (Psychology)
-=852  \\$p1035
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000173
 =020  \\$a967-952-211-3
 =082  04$aJ 398.99928 Ab
@@ -875,17 +395,6 @@
 =541  \\$eACQ-000167
 =650  \0$aProverbs, Malay--Juvenile literature
 =852  \\$p1035
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000145
-=020  \\$a9789830552378
-=082  04$a305.235 ZAK
-=100  1\$aSiti Zawiyah Zakaria
-=245  10$aKontroversi pelajar$cSiti Zawiyah Zakaria
-=260  \\$bPenapro$c2005
-=541  \\$eACQ-000139
-=650  \0$aStudents--Social conditions; Teenagers--Social aspects
-=852  \\$p1036
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000167
@@ -899,17 +408,6 @@
 =852  \\$p1036
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000147
-=020  \\$a9789675409844
-=082  04$a899.2333 KAR
-=100  1\$aWan Raihan Karim
-=245  10$aLadang moden$cWan Raihan Karim
-=260  \\$bSabunai Media$c2013
-=541  \\$eACQ-000141
-=650  \0$aMalaysian fiction (Malay); Malay fiction
-=852  \\$p1037
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000156
 =020  \\$a983976490X
 =082  04$aJF Kum
@@ -921,28 +419,6 @@
 =852  \\$p1037
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000148
-=020  \\$a9789831434000
-=082  04$a499.2386 ZAK
-=100  1\$aSulaiman Zakaria
-=245  10$aBuyung dengan geliga sakti$cSulaiman Zakaria
-=260  \\$bPenerbit Mega Setia Emas$c2002
-=541  \\$eACQ-000142
-=650  \0$aMalay language--Readers
-=852  \\$p1038
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000153
-=020  \\$a9789673950416
-=082  04$a899 UZA
-=100  1\$aW. S. Uzala
-=245  10$aTerjunam dalam kelam$cW. S. Uzala
-=260  \\$bSama Publications & Distributors$c2012
-=541  \\$eACQ-000147
-=650  \0$aDidactic fiction, Malay; Malay fiction
-=852  \\$p1038
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000154
 =020  \\$a9789673950416
 =082  04$a899 UZA
@@ -952,17 +428,6 @@
 =541  \\$eACQ-000148
 =650  \0$aDidactic fiction, Malay; Malay fiction
 =852  \\$p1038
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000151
-=020  \\$a9789673870431
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aKumpulan belajar$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000145
-=650  \0$aYouth--Fiction
-=852  \\$p1039
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000159
@@ -987,39 +452,6 @@
 =852  \\$p1040
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000157
-=020  \\$a9789830972183
-=082  04$a927.969109595 NOR
-=100  1\$aNorhashimah Abd. Rahman
-=245  10$aMARIAM Juara Luncur Ais$bjuara luncur ais$cNorhashimah Abd. Rahman
-=260  \\$bGaleri Ilmu Sdn. Bhd$c2009
-=541  \\$eACQ-000151
-=650  \0$aSkaters--Malaysia--Biography; Ice dancers--Malaysia--Biography
-=852  \\$p1041
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000158
-=020  \\$a9789838806428
-=082  04$a899.2333 UZA
-=100  1\$aW. S. Uzala
-=245  10$aUmpama tebuan bersarang rendah, jangan sampai terjolokkan$cW. S. Uzala
-=260  \\$bEddiplex$c2005
-=541  \\$eACQ-000152
-=650  \0$aMalay fiction; Didactic fiction, Malay
-=852  \\$p1041
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000161
-=020  \\$a9789675280108
-=082  04$a499 RAH
-=100  1\$aHalimah Abdul Rahman
-=245  10$aMemupuk budaya menabung$cHalimah Abdul Rahman
-=260  \\$bOSC Marketing$c2009
-=541  \\$eACQ-000155
-=650  \0$aMalay language--Readers--Consumer education
-=852  \\$p1041
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000162
 =020  \\$a9830780880
 =082  04$aFM GHA
@@ -1040,17 +472,6 @@
 =541  \\$eACQ-000154
 =650  \0$aMalay fiction; Children's stories, Malay
 =852  \\$p1042
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000163
-=020  \\$a9789679064636
-=082  04$a899.2333 MAN
-=100  1\$aAmaludin Abdul Manaf
-=245  10$aHanyut$cAmaludin Abdul Manaf
-=260  \\$bEdusystem$c1998
-=541  \\$eACQ-000157
-=650  \0$aMalay fiction
-=852  \\$p1043
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000166
@@ -1086,71 +507,6 @@
 =852  \\$p1045
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000168
-=020  \\$a9833272304
-=082  04$a305
-=100  1\$aNoor Risma Salfina Muhammad Rozali
-=245  10$aEtnik di Sabah$cNoor Risma Salfina Muhammad Rozali
-=260  \\$bPenapro$c2006
-=541  \\$eACQ-000162
-=650  \0$aEthnology--Sabah--Juvenil literature
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000169
-=020  \\$a983976344X
-=082  04$aJF Kum
-=100  1\$aKUMARA Velu
-=245  10$aThe broken promise$cKUMARA Velu
-=260  \\$b21552$c1998
-=541  \\$eACQ-000163
-=650  \0$aEnglish fiction
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000170
-=020  \\$a9789674642075
-=082  04$aFM ANE
-=245  00$aSi arnab dan Kura-kura
-=260  \\$bANEKA PUBLICATION & DISTRIBUTION SDN. BHD$c2016
-=541  \\$eACQ-000164
-=650  \0$aMalay language--Readers; Didactic fiction, Malay; Animals--Fiction
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000171
-=020  \\$a9789671487389
-=082  04$a711 AKE
-=100  1\$aAkem & The Typewriter
-=245  10$aKELUARNYA YAKJUJ MAKJUJ$bZOMBIE PEMUSNAH$cAkem & The Typewriter
-=260  \\$bBUKU KAW$c2018
-=541  \\$eACQ-000165
-=650  \0$aDevil--Islam; Islamic demonology; Islamic stories, Malay
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000177
-=020  \\$a9789673962242
-=082  04$a398.20421 WIL
-=100  1\$aRose Wilson
-=245  10$aGoldilocks and the three bears$cRose Wilson
-=260  \\$bKohwai & Young Publications (Malaysia)$c2012
-=541  \\$eACQ-000171
-=650  \0$aFairy tales; Folk literature, English
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000184
-=020  \\$a9839665235
-=082  04$a398.209595 NAR
-=100  1\$aZaen Kasturi
-=245  10$aRama dan Sita$bLotong Kasarung$cZaen Kasturi
-=260  \\$bEdu Jaya$c2010
-=541  \\$eACQ-000178
-=650  \0$aFolk literature, Malay; Folklore--Malaysia
-=852  \\$p1046
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000211
 =020  \\$a9679273202
 =082  04$a899.2333 PUT
@@ -1162,27 +518,6 @@
 =852  \\$p1046
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000172
-=020  \\$a9679522016
-=100  1\$aMirmashah
-=245  10$aLanun Pulau Hanyut$cMirmashah
-=260  \\$bKompas Pub$c1991
-=541  \\$eACQ-000166
-=650  \0$aMalay fiction
-=852  \\$p1047
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000174
-=020  \\$a9832336422
-=082  04$aFM PUT
-=100  1\$aPuteri Fahsyar
-=245  10$aIni tanah kita$cPuteri Fahsyar
-=260  \\$bPustaka Buana$c2002
-=541  \\$eACQ-000168
-=650  \0$aShort stories, Malay
-=852  \\$p1047
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000182
 =020  \\$a9789831352328
 =082  04$a499.23 NAZ
@@ -1192,38 +527,6 @@
 =541  \\$eACQ-000176
 =650  \0$aMalay language--Readers--Islamic stories
 =852  \\$p1047
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000175
-=020  \\$a9789670510637
-=082  04$aSUL
-=100  1\$aSulaiman Zakaria
-=245  10$aSumpahan Sang Kelambai$bSulaiman Zakaria$cSulaiman Zakaria
-=260  \\$bMakmur Educational Supplies$c2014
-=541  \\$eACQ-000169
-=650  \0$aTales, Malay; Falk literature, Malay
-=852  \\$p1048
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000176
-=020  \\$a9789675421198
-=082  04$a428.6 AZI
-=100  1\$aGhazali Ngah Azia
-=245  10$aThe bet between two warriors$cGhazali Ngah Azia
-=260  \\$bGunung Ilmu$c2013
-=541  \\$eACQ-000170
-=650  \0$aReaders--Historical fiction, English; Didactic fiction, English
-=852  \\$p1048
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000179
-=020  \\$a978-967-0619-44-6
-=082  04$a499.2386 PUT
-=245  00$aPutera Katak
-=260  \\$bMIND TO MIND$c2023
-=541  \\$eACQ-000173
-=650  \0$aMalay language--Readers; Children's stories, Malay; Folk literature, Malay
-=852  \\$p1048
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000180
@@ -1248,28 +551,6 @@
 =852  \\$p1049
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000181
-=020  \\$a9789832632450
-=082  04$a823 HAI
-=100  1\$aAkbar Ali Abdul Hai
-=245  10$aThe most faithful of social animals$cAkbar Ali Abdul Hai
-=260  \\$bPustaka Buana$c2008
-=541  \\$eACQ-000175
-=650  \0$aEnglish fiction; Animals--Fiction
-=852  \\$p1050
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000183
-=020  \\$a9789673590087
-=082  04$a823 EFF
-=100  1\$aAkmar Effendi
-=245  10$aThe squirrel tricked the monkey$cAkmar Effendi
-=260  \\$bJunior Pages Publications$c2010
-=541  \\$eACQ-000177
-=650  \0$aAnimals--Fiction; Childeren's stories, English
-=852  \\$p1050
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000186
 =020  \\$a9830212394
 =082  04$aFM SHA
@@ -1279,38 +560,6 @@
 =541  \\$eACQ-000180
 =650  \0$aMalay fiction
 =852  \\$p1050
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000187
-=020  \\$a9789674642020
-=082  04$a499.2386 KUC
-=245  00$aKucing dan monyet
-=260  \\$bANEKA PUBLICATION & DISTRIBUTION SDN. BHD$c2016
-=541  \\$eACQ-000181
-=650  \0$aMalay language--Readers; Didactic fiction, Malay; Animals--Fiction
-=852  \\$p1051
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000188
-=020  \\$a978-967-0824-05-5
-=082  04$a372.4 HAR
-=100  1\$aIsahak Haron
-=245  10$aIni Buku$bIni Buku 1A$cIsahak Haron
-=260  \\$bPenerbit Ilmu Bakti Sdn. Bhd$c2015
-=541  \\$eACQ-000182
-=650  \0$aReading (Elementary); Reading--Phonetic method
-=852  \\$p1051
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000189
-=020  \\$a9838806242
-=082  04$a899.2333 UZA
-=100  1\$aW. S. Uzala
-=245  10$aBermulalah bencana$cW. S. Uzala
-=260  \\$bEddiplex$c2005
-=541  \\$eACQ-000183
-=650  \0$aHistorical fiction, Malay--Malaysia; Malaysia--History--Fiction
-=852  \\$p1051
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000193
@@ -1324,39 +573,6 @@
 =852  \\$p1051
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000191
-=020  \\$a9789673510993
-=082  04$a158.1 DIN
-=100  1\$aMohamed Fadzil Che Din
-=245  10$aMENYEMAI SIKAP DAN MINDA POSITIF DEMI MELAHIRKAN MODAL INSAN YANG CEMERLANG$cMohamed Fadzil Che Din
-=260  \\$bPNI Neuron$c2010
-=541  \\$eACQ-000185
-=650  \0$aAttitude (Psychology); Conduct of life
-=852  \\$p1052
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000192
-=020  \\$a9789674536923
-=082  04$a499.2386 JAP
-=100  1\$aNor Azlin Japar
-=245  10$aKOLEKSI CERITA MORAL HAIWAN$bBURUNG HANTU BERMATA BESAR$cNor Azlin Japar
-=260  \\$bKualiti Books Sdn. Bhd$c2018
-=541  \\$eACQ-000186
-=650  \0$aMalay language--Readers; Children's stories, Malay; Animals--Fiction
-=852  \\$p1052
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000194
-=020  \\$a978-967-305-390-2
-=082  04$a899.2333 AYO
-=100  1\$aOsman Ayob
-=245  10$aTelaga di tengah paya$cOsman Ayob
-=260  \\$bPusat Penerbitan Universiti, Universiti Teknologi MARA$c2010
-=541  \\$eACQ-000188
-=650  \0$aMalay fiction; Malaysian fiction (Malay)
-=852  \\$p1052
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000197
 =020  \\$a9839764888
 =082  04$aFM KUM
@@ -1366,39 +582,6 @@
 =541  \\$eACQ-000191
 =650  \0$aEnglish fiction - Translations into Malay
 =852  \\$p1052
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000195
-=020  \\$a9789672135470
-=082  04$a297.18 ALI
-=100  1\$aNasir Mat Ali
-=245  10$aTragedi Orang Lemah$cNasir Mat Ali
-=260  \\$bPenerbitan D E$c2020
-=541  \\$eACQ-000189
-=650  \0$aIslamic stories, Malay; Etiquette
-=852  \\$p1053
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000196
-=020  \\$a9789673870776
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aCikgu Said$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000190
-=650  \0$aDidactic fiction, Malay; Detective and mystery stories, Malay
-=852  \\$p1053
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000198
-=020  \\$a9789830532844
-=082  04$aFM ABI
-=100  1\$aAbisha Naim
-=245  10$aMisi jalur gemilang$cAbisha Naim
-=260  \\$bPustaka Prinsip$c2005
-=541  \\$eACQ-000192
-=650  \0$aMalay language--Readers--Fiction
-=852  \\$p1053
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000199
@@ -1412,17 +595,6 @@
 =852  \\$p1053
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000200
-=020  \\$a978-967-392-173-7
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aPerkelahan Seni$cPakhoruzi Mohammud
-=260  \\$bPUSTAKA KELISA$c2015
-=541  \\$eACQ-000194
-=650  \0$aMalaysian fiction (Malay); Malay fiction
-=852  \\$p1054
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000225
 =020  \\$a9789675280146
 =082  04$a370
@@ -1434,39 +606,6 @@
 =852  \\$p1054
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000201
-=020  \\$a9789670523743
-=082  04$a899.2333 HAM
-=100  1\$aAfiq Hamzah
-=245  10$aKepercayaan Pada Diri Sendiri$cAfiq Hamzah
-=260  \\$bBRIGHT PUBLICATIONS SDN BHD$c2015
-=541  \\$eACQ-000195
-=650  \0$aDidactic fiction, Malay; Malay fiction
-=852  \\$p1055
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000202
-=020  \\$a9830532704
-=082  04$a899.2333 HAR
-=100  1\$aMuhammad bin Harun
-=245  10$aSang serigala dengan sang kerbau$cMuhammad bin Harun
-=260  \\$bPustaka Prinsip$c2005
-=541  \\$eACQ-000196
-=650  \0$aAnimals--Fiction; Children's stories, Malay
-=852  \\$p1055
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000203
-=020  \\$a9789831081914
-=082  04$aFM NUR
-=100  1\$aNurdia Azlin
-=245  10$aJentayu pintar$cNurdia Azlin
-=260  \\$bChoca Enterprise$c2003
-=541  \\$eACQ-000197
-=650  \0$aMalay language--Readers
-=852  \\$p1055
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000207
 =020  \\$a9789674642129
 =082  04$aFAM ANE
@@ -1476,17 +615,6 @@
 =541  \\$eACQ-000201
 =650  \0$aMalay language--Readers; Didactic fiction, Malay; Animals--Fiction
 =852  \\$p1055
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000204
-=020  \\$a9789673870455
-=082  04$a899.2333 MOH
-=100  1\$aPakhoruzi Mohammud
-=245  10$aMayat melintas$cPakhoruzi Mohammud
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000198
-=650  \0$aYouth--Fiction
-=852  \\$p1056
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000209
@@ -1511,50 +639,6 @@
 =852  \\$p1057
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000208
-=020  \\$a9789670776132
-=082  04$a899.231 RIN
-=100  1\$aHilmi Rindu
-=245  10$aYANG JAUH DAN DEKAT$cHilmi Rindu
-=260  \\$bAlaf Ilmu$c2015
-=541  \\$eACQ-000202
-=650  \0$aMalay poetry; Sajak
-=852  \\$p1058
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000212
-=020  \\$a9679200361
-=082  04$aFM NOO
-=100  1\$aNoorziah
-=245  10$aTumpasnya sindiket dadah$cNoorziah
-=260  \\$bPenerbit Warisan$c2001
-=541  \\$eACQ-000206
-=650  \0$aDetective and mystery stories, Malay; Malay fiction
-=852  \\$p1058
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000213
-=020  \\$a9789672433910
-=082  04$a499.2386 KHA
-=100  1\$aHasnizah Mohamed Khalily
-=245  10$aKOLEKSI CERITA DONGENG YANG MENGHIBURKAN$cHasnizah Mohamed Khalily
-=260  \\$bMIND TO MIND (M) SDN. BHD$c2020
-=541  \\$eACQ-000207
-=650  \0$aMalay language--Readers--Fiction; Children's stories, Malay; Fairy tales
-=852  \\$p1058
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000216
-=020  \\$a983-2612-58-6
-=082  04$a899.233 ARI
-=100  1\$aAhmad Iman Arief
-=245  10$aKejatuhan kerajaan Melayu$cAhmad Iman Arief
-=260  \\$bSabunai Media$c2005
-=541  \\$eACQ-000210
-=650  \0$aHistorical fiction, Malay--Malaysia
-=852  \\$p1058
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000222
 =020  \\$a9679570355
 =082  04$a899.233010803 HUS
@@ -1564,17 +648,6 @@
 =541  \\$eACQ-000216
 =650  \0$aShort stories, Malay--Collections; Short stories, Malay; Malay fiction
 =852  \\$p1058
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000214
-=020  \\$a9838752428
-=082  04$a428.6 TIN
-=100  1\$aJeffrey Tinjom
-=245  10$aJasmin the vain cat$cJeffrey Tinjom
-=260  \\$bPustaka Mawar$c2001
-=541  \\$eACQ-000208
-=650  \0$aReaders--Fiction
-=852  \\$p1059
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000220
@@ -1599,28 +672,6 @@
 =852  \\$p1060
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000217
-=020  \\$a9789838777629
-=082  04$a899.2333 ZAK
-=100  1\$aSiti Nur Nadiah Zakaria
-=245  10$aAku dan Rio$cSiti Nur Nadiah Zakaria
-=260  \\$bPENERBIT PRISMA SDN BHD$c2015
-=541  \\$eACQ-000211
-=650  \0$aDidactic fiction, Malay; Children's stories, Malay
-=852  \\$p1061
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000218
-=020  \\$a9831081773
-=082  04$aFM AME
-=100  1\$aAmer Haji Matsom
-=245  10$aDibaham buaya$cAmer Haji Matsom
-=260  \\$bCahaya Kesturi (M)$c2001
-=541  \\$eACQ-000212
-=650  \0$aMalay language--Readers
-=852  \\$p1061
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000219
 =020  \\$a1740655419
 =082  04$aFM AME
@@ -1632,17 +683,6 @@
 =852  \\$p1061
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000221
-=020  \\$a983-9763-29-6
-=082  04$a899.2333 OTH
-=100  1\$aJamalludin Othman
-=245  10$aOrang tawanan$cJamalludin Othman
-=260  \\$bNisam Enterprise$c1998
-=541  \\$eACQ-000215
-=650  \0$aMalay fiction
-=852  \\$p1062
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000223
 =020  \\$a9789838270205
 =082  04$a660 SHA
@@ -1652,49 +692,6 @@
 =541  \\$eACQ-000217
 =650  \0$aBamboo--Juvenile literature; Coconut palm--Juvenile literature; Banana--Juvenile literature
 =852  \\$p1062
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000224
-=020  \\$a9789673870233
-=082  04$a398.2 BAD
-=100  1\$aBadrol Risyam
-=245  10$aAkal berhelah$cBadrol Risyam
-=260  \\$bPustaka Minda Aktif$c2012
-=541  \\$eACQ-000218
-=650  \0$aFolk literature; Tales
-=852  \\$p1063
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000226
-=020  \\$a9838323659
-=082  04$a899
-=100  1\$aSam Amiro
-=245  10$aMalam pengajaran$cSam Amiro
-=260  \\$bPustaka Printis$c2006
-=541  \\$eACQ-000220
-=650  \0$aShort stories, Malay; Malay fiction
-=852  \\$p1063
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000228
-=020  \\$a9789674811402
-=082  04$a741.5088297 MIS
-=100  1\$aNazry Salam
-=245  10$aMiSI SOLAT 5 WAKTU$bEPISOD : DIARI DOA IMRAN$cNazry Salam
-=260  \\$bPTS Publishing House Sdn. Bhd$c2019
-=541  \\$eACQ-000222
-=650  \0$aComic books, strips, etc--Religious aspects--Islam; Prayer--Islam; Islam--Prayers and devotions
-=852  \\$p1063
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000229
-=020  \\$a983-891-058-9
-=100  1\$aAmer Haji Matsom
-=245  10$aKhalifah Abu Jaafar al-Mansur$cAmer Haji Matsom
-=260  \\$bPenerbit Orkid$c1993
-=541  \\$eACQ-000223
-=650  \0$aIslamic stories, Malay--Juvenile literature
-=852  \\$p1063
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000234
@@ -1719,16 +716,6 @@
 =852  \\$p1064
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000230
-=020  \\$a9789832400356
-=100  1\$aShafinaz Shahidun
-=245  10$aMengapakah saya harus bersaing?$cShafinaz Shahidun
-=260  \\$bBright Publications$c2003
-=541  \\$eACQ-000224
-=650  \0$aSelf-actualization (Psychology); Personality development
-=852  \\$p1065
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000233
 =020  \\$a978-983-055-692-5
 =082  04$a320.9595 KAS
@@ -1738,17 +725,6 @@
 =541  \\$eACQ-000227
 =650  \0$aDemocracy--Malaysia--Juvenile literature; Malaysia--Politics and government--Juvenile literature
 =852  \\$p1065
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000231
-=020  \\$a9789831352076
-=082  04$a499.2386 MAT
-=100  1\$aAmer Haji Matsom
-=245  10$aPerangai si kembar$cAmer Haji Matsom
-=260  \\$bPustaka Tintamas$c2008
-=541  \\$eACQ-000225
-=650  \0$aMalay language--Readers--Didactic fiction
-=852  \\$p1066
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000232
@@ -1762,17 +738,6 @@
 =852  \\$p1066
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000235
-=020  \\$a9789674301439
-=082  04$a398.2 ARB
-=100  1\$aBadariah Arbin
-=245  10$aThe jungle warrior$cBadariah Arbin
-=260  \\$bInstitut Terjemahan dan Buku Malaysia$c2013
-=541  \\$eACQ-000229
-=650  \0$aFolk literature, Malay--Translations into English; Tales
-=852  \\$p1067
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000238
 =020  \\$a9838030295
 =082  04$a390
@@ -1784,28 +749,6 @@
 =852  \\$p1067
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000236
-=020  \\$a9838931519
-=082  04$a899.2333 ISM
-=100  1\$aA. Samad Ismail
-=245  10$aTEMBOK TIDAK TINGGI$cA. Samad Ismail
-=260  \\$bBuku Fixi Sdn Bhd$c2024
-=541  \\$eACQ-000230
-=650  \0$aMalay fiction; Malaysian fiction (Malay)
-=852  \\$p1068
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000237
-=020  \\$a978-967-5659-12-6
-=082  04$a398.209595 NOR
-=100  1\$aAziz Nor
-=245  10$aMelur$cAziz Nor
-=260  \\$bPenerbitan Pari Pari$c2013
-=541  \\$eACQ-000231
-=650  \0$aFolklore--Malaysia; Folk literature, Malay
-=852  \\$p1068
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000244
 =020  \\$a9789833535873
 =082  04$a899.2333 MAH
@@ -1815,17 +758,6 @@
 =541  \\$eACQ-000238
 =650  \0$aDidactic fiction, Malay; Children's stories, Malay
 =852  \\$p1068
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000239
-=020  \\$a9789833566815
-=082  04$a899.2333 LUQ
-=100  1\$aHaryani Luqman
-=245  10$aJauh di sudut hati$bJauh Di Sudut Hati$cHaryani Luqman
-=260  \\$bAnggun Publications$c2012
-=541  \\$eACQ-000233
-=650  \0$aMalaysian fiction (Malay)
-=852  \\$p1069
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000240
@@ -1850,17 +782,6 @@
 =852  \\$p1070
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000242
-=020  \\$a9679062333
-=082  04$a899.2333 KAD
-=100  1\$aAzizan Abdul Kadir
-=245  10$aOperasi dinihari$cAzizan Abdul Kadir
-=260  \\$bEdusystem$c1993
-=541  \\$eACQ-000236
-=650  \0$aMalay fiction
-=852  \\$p1071
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000243
 =020  \\$a9831081498
 =082  04$aFM NUR
@@ -1870,28 +791,6 @@
 =541  \\$eACQ-000237
 =650  \0$aMalay language--Readers; Short stories, Malay
 =852  \\$p1071
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000245
-=020  \\$a9789831882047
-=082  04$a899.2333 HAS
-=100  1\$aHasrul Syah Hassan
-=245  10$aPertemuan di Brisbane$bPertemuan Di Brisbane$cHasrul Syah Hassan
-=260  \\$bNikaz Publications$c2010
-=541  \\$eACQ-000239
-=650  \0$aMalay fiction
-=852  \\$p1072
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000246
-=020  \\$a9789830096469
-=082  04$a500 KIM
-=100  1\$aWoo-Jong Kim
-=245  10$aSCIENCE UP!$bPemanasan Global$cWoo-Jong Kim
-=260  \\$bPenerbitan Pelangi Sdn. Bhd$c2019
-=541  \\$eACQ-000240
-=650  \0$aScience--Comic books, strips, etc; Weather--Comic books, strips, etc; Comic books, strips, etc--Korea (South)--Translations into Malay
-=852  \\$p1072
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000250
@@ -1905,17 +804,6 @@
 =852  \\$p1072
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000247
-=020  \\$a9789670594682
-=082  04$a899.2333 AZI
-=100  1\$aSailey Azizah
-=245  10$aTerbongkar Juga Akhirnya$cSailey Azizah
-=260  \\$bSEMARAK MURNI ENTERPRISE$c2015
-=541  \\$eACQ-000241
-=650  \0$aDidactic fiction, Malay; Malay fiction
-=852  \\$p1073
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000249
 =020  \\$a9789673760732
 =082  04$a363.728 CLO
@@ -1925,50 +813,6 @@
 =541  \\$eACQ-000243
 =650  \0$aRefuse and refuse disposal--Juvenile literature
 =852  \\$p1073
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000251
-=020  \\$a9789675986215
-=082  04$a823 KEE
-=100  1\$aAlice Kee
-=245  10$aA Successful young man$cAlice Kee
-=260  \\$bPustaka Cergas Jaya$c2011
-=541  \\$eACQ-000245
-=650  \0$aChildren's stories, English
-=852  \\$p1074
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000252
-=020  \\$a9832943035
-=082  04$a899.2333 ABU
-=100  1\$aAbu Hassan Morad
-=245  10$aSuu Phea$cAbu Hassan Morad
-=260  \\$bAMN Publication Enterprise$c2007
-=541  \\$eACQ-000246
-=650  \0$aMalay fiction
-=852  \\$p1074
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000254
-=020  \\$a9838804320
-=082  04$aFM UZA
-=100  1\$aW. S. Uzala
-=245  10$aTaat antonimnya ingkar$cW. S. Uzala
-=260  \\$bEddiplex$c2001
-=541  \\$eACQ-000248
-=650  \0$aMalay language--Synonyms and antonyms--Juvenile literature
-=852  \\$p1074
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000255
-=020  \\$a983-823-132-0
-=082  04$aJF Zai
-=100  1\$aZailiani Taslim
-=245  10$aHanya sampah$cZailiani Taslim
-=260  \\$bPenerbit Prisma$c1994
-=541  \\$eACQ-000249
-=650  \0$aBahasa Malaysia--Readers--Fiction
-=852  \\$p1074
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000258
@@ -1993,59 +837,6 @@
 =852  \\$p1075
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000256
-=020  \\$a9789670523507
-=082  04$a899.2333 LAT
-=100  1\$aHashim Latiff
-=245  10$aPERISTIWA BUKIT KALA$cHashim Latiff
-=260  \\$bBRIGHT PUBLICATIONS SDN BHD$c2014
-=541  \\$eACQ-000250
-=650  \0$aMalaysian fiction (Malay); Malay fiction
-=852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000257
-=020  \\$a9789670492582
-=082  04$a899.2333 ISM
-=100  1\$aZarinah Ismail
-=245  10$aTumpasnya Penyamun Sihir$cZarinah Ismail
-=260  \\$bPUSTAKA PERMAI$c2014
-=541  \\$eACQ-000251
-=650  \0$aChildren's stories, Malay; Didactic fiction, Malay
-=852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000259
-=020  \\$a9789672930747
-=082  04$a500 BOM
-=100  1\$aDae Jee Kim
-=245  10$aKomik Pendidikan Britannica: Penemuan dan Penciptaan$bPenemuan dan Penciptaan$cDae Jee Kim
-=260  \\$bPenerbitan Pelangi Sdn. Bhd$c2021
-=541  \\$eACQ-000253
-=650  \0$aScience--Comic books, strips, etc; Comic books, strips, etc--Korea (South)--Translations into Malay
-=852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000260
-=020  \\$a983-880-214-X
-=082  04$a793.73 HAR
-=100  1\$aMuhammad bin Harun
-=245  10$aSejarah dan zaman silam$cMuhammad bin Harun
-=260  \\$bEddiplex$c1995
-=541  \\$eACQ-000254
-=852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000263
-=020  \\$a9789673643813
-=082  04$a499.2386 MUZ
-=245  00$aSang Kancil dan Gong Diraja
-=260  \\$bEdukid Publication Sdn. Bhd
-=541  \\$eACQ-000257
-=650  \0$aMalay language--Readers--Fiction; Children's stories, Malay
-=852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000268
 =020  \\$a983832356X
 =082  04$a499
@@ -2055,28 +846,6 @@
 =541  \\$eACQ-000262
 =650  \0$aMalay Language--Readers--Symbolism
 =852  \\$p1076
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000261
-=020  \\$a9789675581465
-=082  04$a499.2386 ABI
-=100  1\$aZarina Zainal Abidin
-=245  10$aBahasa jiwa bangsa$cZarina Zainal Abidin
-=260  \\$bOSC Pub. & Marketing$c2013
-=541  \\$eACQ-000255
-=650  \0$aMalay language--Readers--Juvenile literature; Patriotism--Juvenile literature; Unity and plurality--Juvenile literature
-=852  \\$p1077
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000262
-=020  \\$a9789672040224
-=082  04$a899.2833 MAI
-=100  1\$aAin Maisarah
-=245  10$aPERANG MULUT$cAin Maisarah
-=260  \\$bBLINK BOOK SDN BHD$c2017
-=541  \\$eACQ-000256
-=650  \0$aMalaysian fiction (Malay); Malay fiction; Young adult fiction, Malay
-=852  \\$p1077
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000265
@@ -2090,38 +859,6 @@
 =852  \\$p1077
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000264
-=020  \\$a9789672865803
-=082  04$a899.2333 MAI
-=100  1\$aAin Maisarah
-=245  10$aHijabistar$bAurat atau Fesyen?$cAin Maisarah
-=260  \\$bBLINK$c2024
-=541  \\$eACQ-000258
-=650  \0$aMalay fiction; Malaysian fiction (Malay); Graphic novels--Malaysia
-=852  \\$p1078
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000266
-=020  \\$a9789670619484
-=082  04$a499.2386 RAT
-=245  00$aRatapan Anak Tiri
-=260  \\$bMIND TO MIND$c2024
-=541  \\$eACQ-000260
-=650  \0$aMalay language--Readers--Fiction; Children's stories, Malay; Folk literature, Malay
-=852  \\$p1078
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000267
-=020  \\$a9789830684482
-=082  04$a616.994 ROY
-=100  1\$aAngela Royston
-=245  10$aBagaimanakah keadaannya?$bKanser$cAngela Royston
-=260  \\$bInstitut Terjemahan Negara Malaysia$c2010
-=541  \\$eACQ-000261
-=650  \0$aCancer--Juvenile literature; Cancer--Patients--Juvenile literature
-=852  \\$p1078
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000279
 =020  \\$a983-809-028-X
 =082  04$aJFM RAM
@@ -2133,50 +870,6 @@
 =852  \\$p1078
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000269
-=020  \\$a9789675658020
-=082  04$a899.2333 AZI
-=100  1\$aNor Aziz
-=245  10$aAbu Khair dan Abu Shair$cNor Aziz
-=260  \\$bEman Media Enterprise$c2013
-=541  \\$eACQ-000263
-=650  \0$aChildren's stories, Malay
-=852  \\$p1079
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000270
-=020  \\$a9789675281389
-=082  04$a499.2386 MAI
-=100  1\$aSofea Maisarah
-=245  10$aKisah Dato' Maharaja Lela wira kebanggaan di Perak & kisah Yamtuan Antah menentang British di Seri Menanti$cSofea Maisarah
-=260  \\$bAkal Bistari$c2011
-=541  \\$eACQ-000264
-=650  \0$aMalay language--Readers--Historical fiction; Heroes--Juvenile fiction
-=852  \\$p1079
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000271
-=020  \\$a9789838323970
-=082  04$a499.2386 NOO
-=100  1\$aNoor Azilawati Mohd. Sabda
-=245  10$aBudi bahasa dalam kerjaya$cNoor Azilawati Mohd. Sabda
-=260  \\$bPustaka Printis$c2008
-=541  \\$eACQ-000265
-=650  \0$aMalay language--Readers--Courtesy; Work ethic--Juvenile literature
-=852  \\$p1079
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000272
-=020  \\$a9789674491277
-=082  04$a899.2333 SHU
-=100  1\$aQue Lyana Shuhaimi
-=245  10$aSecantik Ana$cQue Lyana Shuhaimi
-=260  \\$bAna Muslim Sdn Bhd$c2015
-=541  \\$eACQ-000266
-=650  \0$aYoung adult fiction, Malay; Malay fiction; Malaysian fiction (Malay)
-=852  \\$p1079
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000273
 =020  \\$a9679643247
 =082  04$a297 JOH
@@ -2186,39 +879,6 @@
 =541  \\$eACQ-000267
 =650  \0$aJihad,Tabuk, Battle
 =852  \\$p1079
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000274
-=020  \\$a9789830978628
-=082  04$a499.2386 HAS
-=100  1\$aZulina Hassan
-=245  10$aZiRAFAH BERLEHER PANjANG$cZulina Hassan
-=260  \\$bGaleri Ilmu Sdn. Bhd$c2019
-=541  \\$eACQ-000268
-=650  \0$aMalay language--Readers; Animals--Fiction; Children's stories, Malay
-=852  \\$p1080
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000275
-=020  \\$a9839888854
-=082  04$a297 MUH
-=100  1\$aMuhammad Shahid Talib
-=245  10$aEtika Islam di jalan raya$cMuhammad Shahid Talib
-=260  \\$bPustaka Ilmi$c1997
-=541  \\$eACQ-000269
-=650  \0$aIslamic ethics; Roads--Safety measures--Social aspects
-=852  \\$p1080
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000277
-=020  \\$a9789670948676
-=082  04$a500 AZM
-=100  1\$aHeffa Izzar Hussain
-=245  10$aGATALNYA HIDUNG SAYA!$cHeffa Izzar Hussain
-=260  \\$bSASMURNI SDN. BHD$c2017
-=541  \\$eACQ-000271
-=650  \0$aScience--Juvenile literature; Science--Comic books, strips, etc
-=852  \\$p1080
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000278
@@ -2243,17 +903,6 @@
 =852  \\$p1081
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000280
-=020  \\$a9789673643974
-=082  04$a499.2386 ZHA
-=100  1\$aMohd Zhariff
-=245  10$aBuat jahat dibalas jahat serta cerita lain$cMohd Zhariff
-=260  \\$bEdukid Publication Sdn. Bhd$c2017
-=541  \\$eACQ-000274
-=650  \0$aAnimal--Fiction; Children's stories, Malay
-=852  \\$p1082
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000281
 =020  \\$a9838030511
 =082  04$a633
@@ -2263,17 +912,6 @@
 =541  \\$eACQ-000275
 =650  \0$aBanana--Malaysia; Tropical fruit--Malaysia
 =852  \\$p1082
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000282
-=020  \\$a9789670416205
-=082  04$a899.2 SAF
-=100  1\$aSafiah Md. Yassin
-=245  10$aAKIBAT MEMBANGGA DIRI$cSafiah Md. Yassin
-=260  \\$bI MAHIR SDN. BHD$c2015
-=541  \\$eACQ-000276
-=650  \0$aDidactic fiction, Malay; Children's stories, Malay
-=852  \\$p1083
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000283
@@ -2341,28 +979,6 @@
 =852  \\$p1088
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000289
-=020  \\$a9-789674-996079
-=082  04$a499.2386 SUB
-=100  1\$aS. Subramaniam
-=245  10$aKecantikan Sekeliling Saya$cS. Subramaniam
-=260  \\$bANEKA PUBLICATION & DISTRIBUTORS SDN. BHD$c2021
-=541  \\$eACQ-000283
-=650  \0$aMalay language--Readers; Malay fiction
-=852  \\$p1089
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000290
-=020  \\$a9830752143
-=082  04$a590
-=100  1\$aAzlina Ahmad
-=245  10$aSpesies serangga$cAzlina Ahmad
-=260  \\$bPenerbit Mikamas$c2001
-=541  \\$eACQ-000284
-=650  \0$aInsects--Juvenile literature
-=852  \\$p1089
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000304
 =020  \\$a9814174637
 =082  04$a823 PAR
@@ -2372,27 +988,6 @@
 =541  \\$eACQ-000298
 =650  \0$aEnglish fiction -- Translations into Malay
 =852  \\$p1089
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000291
-=020  \\$a978-967-0619-44-6
-=082  04$a499.2386 PUT
-=245  00$aPutera Katak
-=260  \\$bMIND TO MIND$c2023
-=541  \\$eACQ-000285
-=650  \0$aMalay language--Readers; Children's stories, Malay; Folk literature, Malay
-=852  \\$p1090
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000292
-=020  \\$a9679004287
-=082  04$aF JAY
-=100  1\$aAbdullah Ishak
-=245  10$aHang Tuah$cAbdullah Ishak
-=260  \\$bPenerbitan Jaya Bakti$c1993
-=541  \\$eACQ-000286
-=650  \0$aReaders--Fiction; Melaka--History--Fiction
-=852  \\$p1090
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000294
@@ -2439,28 +1034,6 @@
 =852  \\$p1093
 
 =LDR  00000nam a2200000 a 4500
-=001  ER00000297
-=020  \\$a9789833249138
-=082  04$a899.2333 RAZ
-=100  1\$aAzilah Razali
-=245  10$aPejuang$cAzilah Razali
-=260  \\$bMostgain Resources Publications$c2005
-=541  \\$eACQ-000291
-=650  \0$aShort stories, Malay; Malay fiction
-=852  \\$p1094
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000298
-=020  \\$a9789831351819
-=082  04$a49923 AMR
-=100  1\$aAmril Shah
-=245  10$aIkan sembilang putih$cAmril Shah
-=260  \\$bPustaka Tintamas$c2007
-=541  \\$eACQ-000292
-=650  \0$aMalay language--Readers--Folklore
-=852  \\$p1094
-
-=LDR  00000nam a2200000 a 4500
 =001  ER00000300
 =020  \\$a967-952-211-3
 =082  04$aJ 398.99928 Ab
@@ -2492,16 +1065,6 @@
 =541  \\$eACQ-000295
 =650  \0$aHandicraft--Malaysia
 =852  \\$p1096
-
-=LDR  00000nam a2200000 a 4500
-=001  ER00000302
-=020  \\$a9789838750455
-=100  1\$aGhazali Ngah Azia
-=245  10$aResah menunggu$cGhazali Ngah Azia
-=260  \\$bPustaka Mawar$c1993
-=541  \\$eACQ-000296
-=650  \0$aMalay language--Readers--Fiction
-=852  \\$p1097
 
 =LDR  00000nam a2200000 a 4500
 =001  ER00000303
@@ -2693,3 +1256,15 @@
 =541  \\$eACQ-000011
 =650  \0$aInheritance and succession (Islamic law);  Property (Islamic law);  Heirs
 =852  \\$pB1016
+
+=LDR  00000nam a2200000 a 4500
+=001  ER00000020
+=020  \\$a9789830687957
+=082  04$a745.5 KUF
+=100  1\$aTrish Kuffner
+=245  10$aBuku projek seni dan kraf$cTrish Kuffner
+=260  \\$aKuala Lumpur$bInstitut Terjemahan & Buku Malaysia Berhad$c2011
+=300  \\$a364 p.
+=541  \\$eACQ-000015
+=650  \0$aHandicraft--Juvenile literature
+=852  \\$pB1019

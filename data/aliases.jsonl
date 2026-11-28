@@ -128,6 +128,7 @@
 {"key":"035:(STR)B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"035:(STR)B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"035:(STR)B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
+{"key":"035:(STR)B1019","id":"db0317nhba","type":"035","ts":"2026-11-28T11:03:30.301Z"}
 {"key":"035:SKTR-1001","id":"exn3qtsrev","type":"035","ts":"2026-11-25T03:22:28.566Z"}
 {"key":"035:SKTR-B1001","id":"57yyvq2xx3","type":"035","ts":"2026-11-25T03:22:28.566Z"}
 {"key":"035:SKTR-B1002","id":"etj2gt13ws","type":"035","ts":"2026-11-25T03:22:28.566Z"}
@@ -258,6 +259,7 @@
 {"key":"035:STR-B1014","id":"tmrqzhqhpm","type":"035","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"035:STR-B1015","id":"a59v1kq5g8","type":"035","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"035:STR-B1016","id":"t58kzraw3d","type":"035","ts":"2026-11-25T03:45:36.341Z"}
+{"key":"035:STR-B1019","id":"db0317nhba","type":"035","ts":"2026-11-28T11:03:30.301Z"}
 {"key":"fb:101 senarai penting bagi penyelaras keperluan pendidikan khas 101 essential lists for sencos|kate griffiths|institut terjemahan negara malaysia berhad|2011","id":"w6khe0geea","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:101 senarai penting menguruskan tingkah laku dalam perkembangan awal kanak-kanak 101 essential lists on managing behaviour in the early years|simon brownhill|institut terjemahan negara malaysia berhad|2011","id":"vcf2xn2r87","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:101 senarai penting menguruskan tingkah laku di sekolah rendah 101 essential lists on managing behaviour in the primary school|alex griffiths|institut terjemahan & buku malaysia berhad|2012","id":"5k0n2s0h0r","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
@@ -299,6 +301,7 @@
 {"key":"fb:broken promise|kumara velu|21552|1998","id":"e0rpvjm1jy","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:buat jahat dibalas jahat serta cerita lain|mohd zhariff|edukid publication sdn. bhd|2017","id":"1mjd93awtz","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:budi bahasa dalam kerjaya|noor azilawati mohd. sabda|pustaka printis|2008","id":"5r062mfx7g","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
+{"key":"fb:buku projek seni dan kraf|trish kuffner|institut terjemahan & buku malaysia berhad|2011","id":"db0317nhba","type":"fallback","ts":"2026-11-28T11:03:30.301Z"}
 {"key":"fb:bunyi dan pendengaran|claire llewellyn|institut terjemahan negara malaysia|2010","id":"gyw7jq9x3v","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:buyung dengan geliga sakti|sulaiman zakaria|penerbit mega setia emas|2002","id":"kmznws5qg3","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"fb:carbonara untuk opah|aidil fadzil|ana muslim sdn. bhd|2017","id":"8h5zv3v96d","type":"fallback","ts":"2026-11-25T03:45:36.341Z"}
@@ -654,6 +657,7 @@
 {"key":"isbn:9789830685953","id":"gyw7jq9x3v","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"isbn:9789830687223","id":"vcf2xn2r87","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"isbn:9789830687797","id":"rty99mjhh6","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
+{"key":"isbn:9789830687957","id":"db0317nhba","type":"isbn","ts":"2026-11-28T11:03:30.301Z"}
 {"key":"isbn:9789830688237","id":"5k0n2s0h0r","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"isbn:9789830688329","id":"w6khe0geea","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
 {"key":"isbn:9789830972183","id":"ajea5vrre3","type":"isbn","ts":"2026-11-25T03:45:36.341Z"}
